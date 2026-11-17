@@ -1,0 +1,25 @@
+{
+  "member_id": "AGPC-069",
+  "slug": "ali-bakeer",
+  "full_name": "Ali Bakeer",
+  "designation": null,
+  "membership_type": "Founding Member",
+  "institution": null,
+  "qualification": null,
+  "country": null,
+  "biography": "Dr. Ali Bakeer is a Libyan academic, AI policy advisor, and digital transformation expert. He is an Associate Professor at Misurata University and Director of Research and Consultation Programs, leading digitalization and data-driven transformation initiatives. He serves as an Advisor to UNESCWA, contributing to the development of Libya’s National AI Strategy and Open Public Data Policy. His work focuses on responsible AI governance, data policy, digital transformation, and building institutional capacity for AI in libya.",
+  "professional_expertise": [
+    "Researcher"
+  ],
+  "photo": null,
+  "photo_alt": null,
+  "social_links": {
+    "linkedin": "https://www.linkedin.com/in/alibakeer1"
+  },
+  "membership_status": "source-audited",
+  "verification_status": "source-audited",
+  "display_order": 69,
+  "created_at": "2026-11-15",
+  "updated_at": "2026-11-15",
+  "profile_url": "https://coalitionmembers.atlasai.institute/members/ali-bakeer/"
+}

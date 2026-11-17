@@ -1,0 +1,23 @@
+{
+  "member_id": "AGPC-004",
+  "slug": "almuyed-saad",
+  "full_name": "Almuyed Saad",
+  "designation": null,
+  "membership_type": "Founding Member",
+  "institution": null,
+  "qualification": null,
+  "country": null,
+  "biography": "Almuyed Saad is an AI policy and data analysis expert from SUST in Bangladesh.",
+  "professional_expertise": [
+    "Student"
+  ],
+  "photo": null,
+  "photo_alt": null,
+  "social_links": {},
+  "membership_status": "source-audited",
+  "verification_status": "source-audited",
+  "display_order": 4,
+  "created_at": "2026-11-15",
+  "updated_at": "2026-11-15",
+  "profile_url": "https://coalitionmembers.atlasai.institute/members/almuyed-saad/"
+}

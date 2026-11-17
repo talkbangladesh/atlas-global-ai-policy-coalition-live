@@ -1,0 +1,5 @@
+{
+  "nav": { "about": "About", "membership": "Membership", "research": "Research", "members": "Members", "news": "News & Events", "contact": "Contact" },
+  "actions": { "becomeMember": "Become a Member", "apply": "Apply for Membership", "criteria": "View membership criteria", "explore": "Explore the Coalition" },
+  "language": "Language"
+}

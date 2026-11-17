@@ -1,0 +1,22 @@
+# Atlas Global South AI Policy Coalition
+
+> The Atlas Global South AI Policy Coalition brings together researchers, academics, legal experts, policy professionals and institutional partners to strengthen international dialogue on AI governance.
+
+- Convened by: Atlas AI Institute
+- Website: https://coalition.atlasai.institute/
+- Contact: coalition.atlasai@gmail.com
+- Member registry: https://coalition.atlasai.institute/members/
+- About: https://coalition.atlasai.institute/about/
+- Membership: https://coalition.atlasai.institute/membership/
+- Research: https://coalition.atlasai.institute/policy-research/
+- Publications: https://coalition.atlasai.institute/publications/
+- Leadership: https://coalition.atlasai.institute/leadership/founding-committee/
+- Citation: Atlas Global South AI Policy Coalition. “Atlas Global South AI Policy Coalition.” https://coalition.atlasai.institute/
+
+## Focus
+
+The Coalition works on inclusive participation, evidence-informed policy research, human rights and accountability, and institutional capacity and cooperation. Its six research tracks and three initiatives are listed on the Research and Initiatives pages.
+
+## Data boundary
+
+The public member registry contains source-audited profiles. Reported member countries and verified country assignments are distinct measures; no country is inferred for an individual profile without verification.

@@ -1,0 +1,25 @@
+{
+  "member_id": "AGPC-162",
+  "slug": "wafa-al-daily",
+  "full_name": "Wafa Al-Daily",
+  "designation": null,
+  "membership_type": "Member",
+  "institution": null,
+  "qualification": null,
+  "country": null,
+  "biography": "Dr. Wafa Al-Daily is a global executive and strategic advisor with over 25 years of experience in governance, international development, urban transformation, and institutional leadership. Her work spans diverse regions worldwide, with a particular focus on developing countries and the Middle East and North Africa (MENA), addressing complex challenges in policy reform, climate resilience, post-conflict recovery, and institutional capacity building. She has collaborated with governments, multilateral organizations, development banks, and academic institutions to advance inclusive and sustainable development. She serves as Vice President for Governance, Strategy and Policy at International Society of City and Regional Planners (ISOCARP) and Co-Founder and Executive Director of EHAAR International. Her professional interests lie at the intersection of AI governance, digital transformation, international cooperation, and equitable development, particularly the implications of emerging technologies for institutional capacity, human rights, and vulnerable communities.",
+  "professional_expertise": [
+    "Academic"
+  ],
+  "photo": "/assets/member-photos/AGPC-162.png",
+  "photo_alt": "Wafa Al-Daily — Founding Committee",
+  "social_links": {
+    "linkedin": "https://www.linkedin.com/in/wafa-al-daily/"
+  },
+  "membership_status": "source-audited",
+  "verification_status": "source-audited",
+  "display_order": 162,
+  "created_at": "2026-11-15",
+  "updated_at": "2026-11-15",
+  "profile_url": "https://coalitionmembers.atlasai.institute/members/wafa-al-daily/"
+}

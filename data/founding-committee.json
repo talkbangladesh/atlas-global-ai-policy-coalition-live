@@ -1,0 +1,97 @@
+{
+  "committee_name": "Atlas Global South AI Policy Coalition",
+  "committee_type": "Founding Committee",
+  "committee": "Founding Committee",
+  "institutional_host_and_secretariat": "Atlas AI Institute",
+  "total_members": 8,
+  "members": [
+    {
+      "member_id": "AGPC-038",
+      "full_name": "Gábor Soós, PhD",
+      "designation": "Co-Chair",
+      "committee": "Founding Committee",
+      "responsibility": "Co-Chair",
+      "profile_slug": "gabor-soos-phd",
+      "display_order": 1,
+      "photo": "/assets/member-photos/AGPC-038.png",
+      "source_status": "linked to existing member record after accent-insensitive duplicate check"
+    },
+    {
+      "member_id": "AGPC-162",
+      "full_name": "Wafa Al-Daily",
+      "designation": "Co-Chair",
+      "committee": "Founding Committee",
+      "responsibility": "Co-Chair",
+      "profile_slug": "wafa-al-daily",
+      "display_order": 2,
+      "photo": "/assets/member-photos/AGPC-162.png",
+      "source_status": "linked to existing member record"
+    },
+    {
+      "member_id": "AGPC-020",
+      "full_name": "Douglas Mbang Massom",
+      "designation": "Research Collaboration & Partnerships",
+      "committee": "Founding Committee",
+      "responsibility": "Research Collaboration & Partnerships",
+      "profile_slug": "douglas-mbang-massom",
+      "display_order": 3,
+      "photo": "/assets/member-photos/AGPC-020.png",
+      "source_status": "linked to existing member record"
+    },
+    {
+      "member_id": "AGPC-001",
+      "full_name": "Ekaterina Matveeva",
+      "designation": "Youth, Multilingualism & Cultural AI Governance",
+      "committee": "Founding Committee",
+      "responsibility": "Youth, Multilingualism & Cultural AI Governance",
+      "profile_slug": "ekaterina-matveeva",
+      "display_order": 4,
+      "photo": "/assets/member-photos/AGPC-001.png",
+      "source_status": "linked to existing member record"
+    },
+    {
+      "member_id": "AGPC-092",
+      "full_name": "Pretty Tega Edema",
+      "designation": "AI Governance, Law & Rights",
+      "committee": "Founding Committee",
+      "responsibility": "AI Governance, Law & Rights",
+      "profile_slug": "pretty-tega-edema-phd",
+      "display_order": 5,
+      "photo": "/assets/member-photos/AGPC-092.png",
+      "source_status": "linked to existing member record"
+    },
+    {
+      "member_id": "AGPC-074",
+      "full_name": "Rooba Moorghen",
+      "designation": "Public Policy & Institutional Implementation",
+      "committee": "Founding Committee",
+      "responsibility": "Public Policy & Institutional Implementation",
+      "profile_slug": "rooba-yanembal-moorghen",
+      "display_order": 6,
+      "photo": "/assets/member-photos/AGPC-074.png",
+      "source_status": "linked to existing member record"
+    },
+    {
+      "member_id": "AGPC-003",
+      "full_name": "Dr. Jelina Haines",
+      "designation": "Indigenous Knowledge & Community Governance",
+      "committee": "Founding Committee",
+      "responsibility": "Indigenous Knowledge & Community Governance",
+      "profile_slug": "dr-jelina-haines",
+      "display_order": 7,
+      "photo": "/assets/member-photos/AGPC-003.png",
+      "source_status": "linked to existing member record"
+    },
+    {
+      "member_id": "AGPC-007",
+      "full_name": "Nafiul Ahmad Rafi",
+      "designation": "Founding Convenor & Executive Director",
+      "committee": "Founding Committee",
+      "responsibility": "Founding Convenor & Executive Director",
+      "profile_slug": "nafiul-ahmad-rafi",
+      "display_order": 8,
+      "photo": "/assets/member-photos/AGPC-007.png",
+      "source_status": "linked to existing member record"
+    }
+  ]
+}

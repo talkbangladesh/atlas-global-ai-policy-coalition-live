@@ -1,0 +1,25 @@
+{
+  "member_id": "AGPC-117",
+  "slug": "chih-hsuan-lee",
+  "full_name": "Chih-Hsuan Lee",
+  "designation": null,
+  "membership_type": "Founding Member",
+  "institution": null,
+  "qualification": null,
+  "country": null,
+  "biography": "Taiwanese researcher based in Bangkok. PhD researcher at Thammasat University's School of Global Studies and researcher with the China-Global South Project (CGSP), working on Chinese AI governance, Digital Silk Road infrastructure, and AI-enabled cognitive warfare in the Asia Pacific. Co-author of \"Signals in the Noise\" (SSRN preprint), proposing an OSINT-based framework for detecting behavioral signatures of AI loss of control. Previously an AI red-teaming and disinformation analyst at Accenture. Fluent in Mandarin, English, and Thai.",
+  "professional_expertise": [
+    "Researcher"
+  ],
+  "photo": null,
+  "photo_alt": null,
+  "social_links": {
+    "linkedin": "https://www.linkedin.com/in/chih-hsuan-ian-lee/"
+  },
+  "membership_status": "source-audited",
+  "verification_status": "source-audited",
+  "display_order": 117,
+  "created_at": "2026-11-15",
+  "updated_at": "2026-11-15",
+  "profile_url": "https://coalitionmembers.atlasai.institute/members/chih-hsuan-lee/"
+}

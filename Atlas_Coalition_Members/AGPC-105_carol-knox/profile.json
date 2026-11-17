@@ -1,0 +1,25 @@
+{
+  "member_id": "AGPC-105",
+  "slug": "carol-knox",
+  "full_name": "Carol Knox",
+  "designation": null,
+  "membership_type": "Founding Member",
+  "institution": null,
+  "qualification": null,
+  "country": null,
+  "biography": "Carol is an adult educator, corporate trainer, and online ESL coach with over 30 years of experience in adult learning and communication. She is also a Socratic writing coach and instructional designer, specialising in curriculum development and digital learning tools. In addition to her education work, Carol researches conservation issues, publishing articles on baboon–human coexistence and interface challenges in platforms such as Daly Maverick , Cape Town ETC, and LinkedIn among others. Carol has undergone significant AI training in the last few years. Her professional interests span empathy-driven communication, ethical AI fluency (drawing on frameworks such as Anthropic’s 4D model), and bridging science-policy gaps in both education and conservation.",
+  "professional_expertise": [
+    "Researcher"
+  ],
+  "photo": null,
+  "photo_alt": null,
+  "social_links": {
+    "linkedin": "https://www.linkedin.com/in/carolknox/"
+  },
+  "membership_status": "source-audited",
+  "verification_status": "source-audited",
+  "display_order": 105,
+  "created_at": "2026-11-15",
+  "updated_at": "2026-11-15",
+  "profile_url": "https://coalitionmembers.atlasai.institute/members/carol-knox/"
+}

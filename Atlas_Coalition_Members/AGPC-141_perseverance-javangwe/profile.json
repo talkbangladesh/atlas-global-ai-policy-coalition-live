@@ -1,0 +1,25 @@
+{
+  "member_id": "AGPC-141",
+  "slug": "perseverance-javangwe",
+  "full_name": "Perseverance Javangwe",
+  "designation": null,
+  "membership_type": "Founding Member",
+  "institution": null,
+  "qualification": null,
+  "country": null,
+  "biography": "Perseverance Javangwe is a Communications Officer at Community Voices Zimbabwe and a journalist and AI governance practitioner based in Kwekwe, Zimbabwe. With over a decade of experience in investigative journalism, climate justice reporting, and civil society work, he bridges community storytelling with emerging technology — founding initiatives like Uchenjeri AI (AI and media literacy education for youth), and Nzira Yedu (an indigenous climate knowledge dataset). His work centers Zimbabwean communities as active participants in AI development rather than passive recipients, combining a Python and web development background with fellowships from McKinsey Forward, YALI, and the UN's Reham Al-Farra program. At Community Voices Zimbabwe, he applies this same lens to communications translating complex technical and civic issues into accessible narratives that amplify local voices.",
+  "professional_expertise": [
+    "Civil Society"
+  ],
+  "photo": null,
+  "photo_alt": null,
+  "social_links": {
+    "linkedin": "https://www.linkedin.com/in/perseverance-javangwe-418988183/"
+  },
+  "membership_status": "source-audited",
+  "verification_status": "source-audited",
+  "display_order": 141,
+  "created_at": "2026-11-15",
+  "updated_at": "2026-11-15",
+  "profile_url": "https://coalitionmembers.atlasai.institute/members/perseverance-javangwe/"
+}

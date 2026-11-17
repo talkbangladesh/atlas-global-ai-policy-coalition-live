@@ -1,0 +1,14 @@
+# Steven Guerrero
+
+- **Member ID:** AGPC-027
+- **Membership:** Founding Member
+- **Expertise:** Civil Society
+- **LinkedIn:** https://www.linkedin.com/in/stevenguerrero2018/
+
+## Source summary
+
+Steven Guerrero is a Costa Rican AI policy and digital governance practitioner working at the intersection of responsible AI, digital transformation, public policy and socioeconomic development. He serves as Vice President of FAIR Costa Rica and has contributed to AI governance research through the Center for AI and Digital Policy (CAIDP), including work on the AI and Democratic Values Index. He is also an adjunct professor at Universidad CENFOTEC and Executive Director of TéiKiq, a digital innovation cluster that brings together government, academia and the private sector. His current interests include AI governance in Latin America, digital strategic autonomy, digital public infrastructure, institutional capacity and development-oriented approaches to emerging technologies.
+
+## Missing information
+
+designation, institution, qualification, country, photo, photo_alt. Values are intentionally not invented.

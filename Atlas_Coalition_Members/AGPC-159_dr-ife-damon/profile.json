@@ -1,0 +1,25 @@
+{
+  "member_id": "AGPC-159",
+  "slug": "dr-ife-damon",
+  "full_name": "Dr. Ife Damon",
+  "designation": null,
+  "membership_type": "Member",
+  "institution": null,
+  "qualification": null,
+  "country": null,
+  "biography": "I am an educator with over 25 years of experience. My focus is on bringing community and classroom together to empower students to use academic, 21st-century, and 3rd-millennium skills to learn about and improve issues that impact their communities.",
+  "professional_expertise": [
+    "Academic"
+  ],
+  "photo": null,
+  "photo_alt": null,
+  "social_links": {
+    "linkedin": "https://www.linkedin.com/in/dr-ife-damon"
+  },
+  "membership_status": "source-audited",
+  "verification_status": "source-audited",
+  "display_order": 159,
+  "created_at": "2026-11-15",
+  "updated_at": "2026-11-15",
+  "profile_url": "https://coalitionmembers.atlasai.institute/members/dr-ife-damon/"
+}

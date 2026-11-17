@@ -1,0 +1,25 @@
+{
+  "member_id": "AGPC-050",
+  "slug": "mywish-anand",
+  "full_name": "Mywish Anand",
+  "designation": null,
+  "membership_type": "Founding Member",
+  "institution": null,
+  "qualification": null,
+  "country": null,
+  "biography": "A writer, developer, community builder and researcher working on to lay the frameworks for the governance of Physical and Edge AI.",
+  "professional_expertise": [
+    "Researcher"
+  ],
+  "photo": null,
+  "photo_alt": null,
+  "social_links": {
+    "linkedin": "https://www.linkedin.com/in/mywishanand/"
+  },
+  "membership_status": "source-audited",
+  "verification_status": "source-audited",
+  "display_order": 50,
+  "created_at": "2026-11-15",
+  "updated_at": "2026-11-15",
+  "profile_url": "https://coalitionmembers.atlasai.institute/members/mywish-anand/"
+}

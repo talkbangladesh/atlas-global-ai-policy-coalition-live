@@ -1,0 +1,3 @@
+Contact: mailto:coalition.atlasai@gmail.com
+Preferred-Languages: en
+Canonical: https://coalition.atlasai.institute/.well-known/security.txt

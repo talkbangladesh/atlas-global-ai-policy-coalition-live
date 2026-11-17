@@ -1,0 +1,211 @@
+{
+  "brand": {
+    "name": "Atlas Global South AI Policy Coalition",
+    "small_line": "Convened by Atlas AI Institute"
+  },
+  "hero": {
+    "eyebrow": "ATLAS AI INSTITUTE · GLOBAL COALITION",
+    "headline": "Advancing Global AI Governance Through International Cooperation",
+    "subtext": "An international network of researchers, legal scholars, policy professionals and institutions across 55 countries, working together for safe, ethical and inclusive artificial intelligence.",
+    "primary_button": "Explore the Coalition",
+    "secondary_button": "Become a Member",
+    "badge": "Official Coalition Portal"
+  },
+  "stats": [
+    {
+      "value": "55",
+      "label": "Member countries"
+    },
+    {
+      "value": "170+",
+      "label": "Researchers and experts"
+    },
+    {
+      "value": "5",
+      "label": "Global regions"
+    },
+    {
+      "value": "6",
+      "label": "Core research tracks"
+    }
+  ],
+  "about": {
+    "label": "ABOUT THE COALITION",
+    "title": "A global platform for responsible AI governance",
+    "body": "The Atlas Global South AI Policy Coalition brings together researchers, academics, legal experts, policy professionals and institutional partners to strengthen international dialogue on AI governance. Convened by Atlas AI Institute, it ensures that diverse regional perspectives help shape global AI policy.",
+    "link": "Learn about the Coalition"
+  },
+  "mission": "To foster inclusive international dialogue, collaborative AI policy research and cross-border governance frameworks that ensure artificial intelligence develops safely, ethically and equitably for global society.",
+  "vision": "A globally coordinated AI ecosystem built on shared accountability, transparency, scientific integrity and human-centered innovation.",
+  "global_reach": {
+    "label": "GLOBAL REACH",
+    "title": "A network that spans the world",
+    "body": "Members across five global regions contribute local insight to a shared international conversation.",
+    "link": "Explore the Member Registry",
+    "regions": [
+      "Asia-Pacific",
+      "Europe",
+      "Africa",
+      "The Americas",
+      "MENA"
+    ]
+  },
+  "membership": {
+    "label": "GLOBAL MEMBERSHIP",
+    "title": "Meet our members",
+    "body": "Researchers, academics, lawyers, technologists and civil society leaders from around the world.",
+    "link": "View all members"
+  },
+  "member_countries": {
+    "label": "GEOGRAPHIC REPRESENTATION",
+    "title": "Member Countries",
+    "body": "Explore national chapters across 55 participating countries.",
+    "link": "Explore all member countries"
+  },
+  "leadership": {
+    "label": "LEADERSHIP & GOVERNANCE",
+    "title": "Founding Committee",
+    "body": "Experts in AI governance, law, public policy, research partnerships, cultural governance and human rights guide the Coalition's work.",
+    "link": "Meet the Founding Committee"
+  },
+  "research_tracks": [
+    {
+      "title": "AI Governance",
+      "description": "Institutional frameworks, oversight mechanisms and accountability structures for AI systems."
+    },
+    {
+      "title": "Responsible AI",
+      "description": "Operational safety, fairness, transparency and human-centered safeguards across the AI lifecycle."
+    },
+    {
+      "title": "AI Ethics",
+      "description": "Normative inquiry into rights, equity, cultural pluralism and human-centered decision-making."
+    },
+    {
+      "title": "AI Policy Research",
+      "description": "Comparative, evidence-based analysis of national AI strategies and legislative readiness."
+    },
+    {
+      "title": "Global Regulatory Cooperation",
+      "description": "Cross-border alignment of AI policy approaches and regulatory dialogue."
+    },
+    {
+      "title": "Emerging AI Technologies",
+      "description": "Anticipating risks and opportunities from frontier technologies."
+    }
+  ],
+  "initiatives": [
+    {
+      "title": "Global AI Policy Dialogue Framework",
+      "description": "Structured cross-regional roundtables connecting Coalition members across Asia-Pacific, Europe, Africa, the Americas and MENA."
+    },
+    {
+      "title": "AI Literacy & Digital Safety Initiative",
+      "description": "A collaborative track on AI literacy, synthetic media awareness and protection against technology-facilitated harms."
+    },
+    {
+      "title": "Comparative AI Governance Observatory",
+      "description": "A tracker of national AI strategies, statutory instruments and soft-law frameworks across member countries."
+    }
+  ],
+  "publications": [],
+  "news_events": [],
+  "contributions": {
+    "label": "MEMBER CONTRIBUTIONS",
+    "title": "Share your thoughts",
+    "body": "Anyone can submit an article, policy analysis or expert thought for editorial review. Approved contributions are published for a global readership.",
+    "tags": [
+      "Research Article",
+      "Policy Analysis",
+      "Expert Opinion",
+      "Thought Leadership"
+    ],
+    "button": "Share your thoughts"
+  },
+  "join": {
+    "label": "JOIN THE COALITION",
+    "title": "Join a Global Movement for Responsible AI",
+    "body": "Researchers, legal scholars, policy specialists and civil society leaders are invited to apply for membership and join the Global Member Registry.",
+    "primary_button": "Explore Membership",
+    "secondary_button": "Apply Online"
+  },
+  "footer": {
+    "brand": "Atlas Global South AI Policy Coalition",
+    "tagline": "Together for a Responsible AI Future.",
+    "description": "An international platform for AI policy, governance, research and cooperation.",
+    "parent_line": "Convened by Atlas AI Institute, a global AI policy and governance research and public interest development institution.",
+    "official_domain": "https://coalition.atlasai.institute",
+    "copyright": "© 2026 Atlas Global South AI Policy Coalition. An Atlas AI Institute initiative.",
+    "columns": [
+      {
+        "title": "Coalition",
+        "links": [
+          {
+            "label": "About",
+            "href": "/about/"
+          },
+          {
+            "label": "Mission & Vision",
+            "href": "/#mission-vision"
+          },
+          {
+            "label": "Governance",
+            "href": "/committee-rulebook/"
+          },
+          {
+            "label": "Leadership",
+            "href": "/leadership/"
+          }
+        ]
+      },
+      {
+        "title": "Registry",
+        "links": [
+          {
+            "label": "Global Members",
+            "href": "/global-members/"
+          },
+          {
+            "label": "Member Countries",
+            "href": "/member-countries/"
+          }
+        ]
+      },
+      {
+        "title": "Knowledge",
+        "links": [
+          {
+            "label": "Research Tracks",
+            "href": "/policy-research/"
+          },
+          {
+            "label": "Initiatives",
+            "href": "/initiatives/"
+          },
+          {
+            "label": "Publications",
+            "href": "/publications/"
+          },
+          {
+            "label": "Monthly Publication Programme",
+            "href": "/monthly-publication-programme/"
+          },
+          {
+            "label": "News & Events",
+            "href": "/news-events/"
+          }
+        ]
+      },
+      {
+        "title": "Social",
+        "links": [
+          {
+            "label": "LinkedIn Showcase",
+            "href": "https://www.linkedin.com/showcase/atlas-global-south-ai-policy-coalition/",
+            "external": true
+          }
+        ]
+      }
+    ]
+  }
+}

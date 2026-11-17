@@ -1,0 +1,25 @@
+{
+  "member_id": "AGPC-153",
+  "slug": "sharon-juwah",
+  "full_name": "Sharon Juwah",
+  "designation": null,
+  "membership_type": "Member",
+  "institution": null,
+  "qualification": null,
+  "country": null,
+  "biography": "Sharon Juwah is an AI governance specialist who centres her work on a fundamental question: when an AI system acts inside an institution, who is held liable, and is there a capacity to assess? \r\nHer work focuses on agentic AI liability, AI incident reporting, and the institutional and technical capacity regulators need to independently assess AI systems and enforce governance requirements.\r\nShe applies this work in practice as Head of AI Innovation at Afari Travels & Tours, where she leads the organisation's responsible AI initiatives and contributes to research and the development of governance processes for AI-enabled operations.\r\nShe is also the Convener of On the Books, a web series examining AI governance across Africa, and speaks on AI governance and policy at international forums.\r\nHer research on strategic AI sovereignty examines how African states can exercise meaningful control over critical AI dependencies and develop the capacity to independently verify the systems deployed within their jurisdictions.",
+  "professional_expertise": [
+    "Researcher"
+  ],
+  "photo": null,
+  "photo_alt": null,
+  "social_links": {
+    "linkedin": "https://www.linkedin.com/in/sharonjuwah"
+  },
+  "membership_status": "source-audited",
+  "verification_status": "source-audited",
+  "display_order": 153,
+  "created_at": "2026-11-15",
+  "updated_at": "2026-11-15",
+  "profile_url": "https://coalitionmembers.atlasai.institute/members/sharon-juwah/"
+}

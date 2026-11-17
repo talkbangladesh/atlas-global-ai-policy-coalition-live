@@ -1,0 +1,25 @@
+{
+  "member_id": "AGPC-066",
+  "slug": "dr-john-oloo-gwendo",
+  "full_name": "Dr. John Oloo Gwendo",
+  "designation": null,
+  "membership_type": "Founding Member",
+  "institution": null,
+  "qualification": null,
+  "country": null,
+  "biography": "Dr. John Oloo Gwendo is a Kenyan academic, researcher, and Information Technology specialist with expertise in artificial intelligence, knowledge-based systems, computing, and educational technology. He holds a PhD in Information Technology from Unicaf University and is a Lecturer at Moi University, where he teaches and supervises research in computing and information technology.",
+  "professional_expertise": [
+    "Academic"
+  ],
+  "photo": null,
+  "photo_alt": null,
+  "social_links": {
+    "linkedin": "https://www.linkedin.com/in/oloo-gwendo-6b2b2619"
+  },
+  "membership_status": "source-audited",
+  "verification_status": "source-audited",
+  "display_order": 66,
+  "created_at": "2026-11-15",
+  "updated_at": "2026-11-15",
+  "profile_url": "https://coalitionmembers.atlasai.institute/members/dr-john-oloo-gwendo/"
+}

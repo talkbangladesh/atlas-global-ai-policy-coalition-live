@@ -1,0 +1,25 @@
+{
+  "member_id": "AGPC-156",
+  "slug": "fredrick-ishengoma",
+  "full_name": "Fredrick Ishengoma",
+  "designation": null,
+  "membership_type": "Member",
+  "institution": null,
+  "qualification": null,
+  "country": null,
+  "biography": "I am an Associate Professor of Information Systems at the University of Dodoma, Tanzania. My research looks at how AI and digital technologies are adopted and governed in public services, businesses, agriculture, and education. Recent work covers AI agents and data protection requirements, generative AI use in software development, mobile AI services in Tanzanian manufacturing firms, and a comparison of data protection laws across East African countries. I also work on electronic government and its link to the Sustainable Development Goals. I serve as an academic editor at PLOS ONE and review for several information systems journals. I teach and supervise postgraduate students.",
+  "professional_expertise": [
+    "Researcher"
+  ],
+  "photo": null,
+  "photo_alt": null,
+  "social_links": {
+    "linkedin": "https://tz.linkedin.com/in/ishengoma"
+  },
+  "membership_status": "source-audited",
+  "verification_status": "source-audited",
+  "display_order": 156,
+  "created_at": "2026-11-15",
+  "updated_at": "2026-11-15",
+  "profile_url": "https://coalitionmembers.atlasai.institute/members/fredrick-ishengoma/"
+}

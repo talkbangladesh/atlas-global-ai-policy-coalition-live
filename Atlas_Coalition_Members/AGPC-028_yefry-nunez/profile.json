@@ -1,0 +1,25 @@
+{
+  "member_id": "AGPC-028",
+  "slug": "yefry-nunez",
+  "full_name": "Yefry Núñez",
+  "designation": null,
+  "membership_type": "Founding Member",
+  "institution": null,
+  "qualification": null,
+  "country": null,
+  "biography": "Scientist, programmer, and entrepreneur in artificial intelligence. Director of AI Safety Dominicana and NeurIPS 2026 reviewer, with experience developing AI solutions and conducting research on AI safety.",
+  "professional_expertise": [
+    "Researcher"
+  ],
+  "photo": null,
+  "photo_alt": null,
+  "social_links": {
+    "linkedin": "https://www.linkedin.com/in/yefry-núñez-67a61831a"
+  },
+  "membership_status": "source-audited",
+  "verification_status": "source-audited",
+  "display_order": 28,
+  "created_at": "2026-11-15",
+  "updated_at": "2026-11-15",
+  "profile_url": "https://coalitionmembers.atlasai.institute/members/yefry-nunez/"
+}

@@ -1,0 +1,22 @@
+{
+  "member_id": "AGPC-024",
+  "full_name": "debjyoti mukherjee",
+  "slug": "debjyoti-mukherjee",
+  "membership_type": "Founding Member",
+  "profile_url": "https://coalitionmembers.atlasai.institute/members/debjyoti-mukherjee/",
+  "data_completeness_status": "partial",
+  "missing_fields": [
+    "designation",
+    "institution",
+    "qualification",
+    "country",
+    "photo",
+    "photo_alt"
+  ],
+  "source_record_reference": {
+    "source_file": "Atlas_Global_South_AI_Coalition_Profile_Structure(1).xlsx",
+    "array_name": "members",
+    "zero_based_index": 23,
+    "display_order": 24
+  }
+}

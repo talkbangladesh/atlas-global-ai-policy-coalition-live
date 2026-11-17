@@ -1,0 +1,25 @@
+{
+  "member_id": "AGPC-128",
+  "slug": "stephen-hall",
+  "full_name": "Stephen Hall",
+  "designation": null,
+  "membership_type": "Founding Member",
+  "institution": null,
+  "qualification": null,
+  "country": null,
+  "biography": "Stephen Hall is Founder of Digital Narrative Care (DNC), a UK-based AI absorption and digital assurance company developing practical governance infrastructure for consequential AI-mediated accounts and institutional decision-making. DNC works across public services, health, social care, justice and government, focusing on record, meaning and temporal integrity; evidence and authority; correction and institutional memory; and the point at which machine processing must stop for appropriately authorised human judgement.\n\nStephen’s wider work includes participation in the UN stakeholder consultation for the Global Dialogue on AI Governance and subsequent DNC contributions to the UN dialogue process. His work also intersects with the RightsCon community and engagement with Ema Olori around digital rights, institutional memory, digital power and the question of whose account survives and becomes authoritative as technologies and institutions mediate human experience.",
+  "professional_expertise": [
+    "Industry"
+  ],
+  "photo": null,
+  "photo_alt": null,
+  "social_links": {
+    "linkedin": "https://www.linkedin.com/in/stephenhalluk/"
+  },
+  "membership_status": "source-audited",
+  "verification_status": "source-audited",
+  "display_order": 128,
+  "created_at": "2026-11-15",
+  "updated_at": "2026-11-15",
+  "profile_url": "https://coalitionmembers.atlasai.institute/members/stephen-hall/"
+}

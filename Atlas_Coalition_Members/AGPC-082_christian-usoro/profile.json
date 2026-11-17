@@ -1,0 +1,25 @@
+{
+  "member_id": "AGPC-082",
+  "slug": "christian-usoro",
+  "full_name": "Christian Usoro",
+  "designation": null,
+  "membership_type": "Founding Member",
+  "institution": null,
+  "qualification": null,
+  "country": null,
+  "biography": "I'm an AI/ML researcher and Research Fellow at CPX Lab (CSU Long Beach), studying coordination failures and trust in multi-agent AI systems. My work spans a diagnostic framework for detecting adversarial and communication failures in multi-agent systems and an open-source tool for assessing AI compliance with the EU AI Act.\nI came to AI research from a political science background, and I now focus on bridging technical AI development and governance, particularly accountability gaps in under-resourced regulatory contexts.",
+  "professional_expertise": [
+    "Researcher"
+  ],
+  "photo": null,
+  "photo_alt": null,
+  "social_links": {
+    "linkedin": "https://www.linkedin.com/in/chris-usoroh/"
+  },
+  "membership_status": "source-audited",
+  "verification_status": "source-audited",
+  "display_order": 82,
+  "created_at": "2026-11-15",
+  "updated_at": "2026-11-15",
+  "profile_url": "https://coalitionmembers.atlasai.institute/members/christian-usoro/"
+}

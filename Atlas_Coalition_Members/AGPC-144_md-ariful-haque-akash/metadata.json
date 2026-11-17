@@ -1,0 +1,22 @@
+{
+  "member_id": "AGPC-144",
+  "full_name": "Md Ariful Haque Akash",
+  "slug": "md-ariful-haque-akash",
+  "membership_type": "Member",
+  "profile_url": "https://coalitionmembers.atlasai.institute/members/md-ariful-haque-akash/",
+  "data_completeness_status": "partial",
+  "missing_fields": [
+    "designation",
+    "institution",
+    "qualification",
+    "country",
+    "photo",
+    "photo_alt"
+  ],
+  "source_record_reference": {
+    "source_file": "Atlas_Global_South_AI_Coalition_Profile_Structure(1).xlsx",
+    "array_name": "members",
+    "zero_based_index": 143,
+    "display_order": 144
+  }
+}

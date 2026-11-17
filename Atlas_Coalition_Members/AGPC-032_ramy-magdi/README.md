@@ -1,0 +1,16 @@
+# Ramy Magdi
+
+- **Member ID:** AGPC-032
+- **Membership:** Founding Member
+- **Expertise:** Institution
+- **LinkedIn:** Not provided
+
+## Source summary
+
+Ramy M. Magdi is an economist and a former diplomat. He has more than 15 years of research and management experience at the Bibliotheca Alexandrina (Egypt) as librarian and Director of the Library’s Arabic & Islamic Manuscripts Centre, and later at the Arab League Educational, Cultural & Scientific Organization (ALECSO) (Tunisia) as Chief of Staff and Head of Strategy. He lived in Egypt, Tunisia and the UK and travelled across the Middle East and Europe. 
+Ramy engaged in top intergovernmental policy initiatives in the fields of education, research, cultural preservation and counter-terrorism in the MENA region. He took part in collaborative initiatives and projects led by, inter alia, the World Bank, UNESCO, UNICEF and ICESCO. He edited two books on Arabic and Islamic Heritage (published by the Library of Alexandria), organised 16 international conferences and high-level symposia, in addition to 4 international book fairs (2 in Egypt, 1 in Frankfurt and another in London) and helped fundraise and manage USD 2,6000,000 for the benefit of the institutions he worked for.
+Ramy studied at University College London (UCL) and graduated with an MSc in International Public Policy with a focus on international political economy, financial inclusion and economic global governance. He also studied English language and civilization and has a BA and another MA in English Language and Natural Language Processing from the University of Alexandria.
+
+## Missing information
+
+designation, institution, qualification, country, photo, photo_alt. Values are intentionally not invented.

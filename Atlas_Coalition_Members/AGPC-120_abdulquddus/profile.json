@@ -1,0 +1,25 @@
+{
+  "member_id": "AGPC-120",
+  "slug": "abdulquddus",
+  "full_name": "AbdulQuddus",
+  "designation": null,
+  "membership_type": "Founding Member",
+  "institution": null,
+  "qualification": null,
+  "country": null,
+  "biography": "Dr AbdulQuddus Mohammed is an academic leader, researcher and AI educator with over 25 years of international experience across academia, HR, business and consulting. He serves as Academic Program Chair for the Bachelor of Human Resource Management at the Higher Colleges of Technology, UAE, and is the Founder of Thrive AI, an initiative dedicated to developing future-ready leaders for the AI age.\nHis research and professional interests include responsible AI adoption, AI governance, future skills, human-centred leadership and the future of work. He is a Fellow of CIPD, CIM and Advance HE and holds a Doctorate in Business. His work focuses particularly on ensuring that AI advances human capability while contributing to inclusive, responsible and sustainable development.",
+  "professional_expertise": [
+    "Academic"
+  ],
+  "photo": null,
+  "photo_alt": null,
+  "social_links": {
+    "linkedin": "https://www.linkedin.com/in/abdulquddosmuhammad"
+  },
+  "membership_status": "source-audited",
+  "verification_status": "source-audited",
+  "display_order": 120,
+  "created_at": "2026-11-15",
+  "updated_at": "2026-11-15",
+  "profile_url": "https://coalitionmembers.atlasai.institute/members/abdulquddus/"
+}

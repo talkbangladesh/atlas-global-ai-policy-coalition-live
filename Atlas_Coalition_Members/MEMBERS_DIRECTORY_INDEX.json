@@ -1,0 +1,1472 @@
+{
+  "total_members": 163,
+  "members": [
+    {
+      "member_id": "AGPC-001",
+      "slug": "ekaterina-matveeva",
+      "folder": "AGPC-001_ekaterina-matveeva",
+      "profile_file": "AGPC-001_ekaterina-matveeva/profile.json",
+      "metadata_file": "AGPC-001_ekaterina-matveeva/metadata.json",
+      "profile_url": "https://coalitionmembers.atlasai.institute/members/ekaterina-matveeva/",
+      "membership_type": "Founding Member"
+    },
+    {
+      "member_id": "AGPC-002",
+      "slug": "akbar-husnoo",
+      "folder": "AGPC-002_akbar-husnoo",
+      "profile_file": "AGPC-002_akbar-husnoo/profile.json",
+      "metadata_file": "AGPC-002_akbar-husnoo/metadata.json",
+      "profile_url": "https://coalitionmembers.atlasai.institute/members/akbar-husnoo/",
+      "membership_type": "Founding Member"
+    },
+    {
+      "member_id": "AGPC-003",
+      "slug": "dr-jelina-haines",
+      "folder": "AGPC-003_dr-jelina-haines",
+      "profile_file": "AGPC-003_dr-jelina-haines/profile.json",
+      "metadata_file": "AGPC-003_dr-jelina-haines/metadata.json",
+      "profile_url": "https://coalitionmembers.atlasai.institute/members/dr-jelina-haines/",
+      "membership_type": "Founding Member"
+    },
+    {
+      "member_id": "AGPC-004",
+      "slug": "almuyed-saad",
+      "folder": "AGPC-004_almuyed-saad",
+      "profile_file": "AGPC-004_almuyed-saad/profile.json",
+      "metadata_file": "AGPC-004_almuyed-saad/metadata.json",
+      "profile_url": "https://coalitionmembers.atlasai.institute/members/almuyed-saad/",
+      "membership_type": "Founding Member"
+    },
+    {
+      "member_id": "AGPC-005",
+      "slug": "iftekhar-hossain",
+      "folder": "AGPC-005_iftekhar-hossain",
+      "profile_file": "AGPC-005_iftekhar-hossain/profile.json",
+      "metadata_file": "AGPC-005_iftekhar-hossain/metadata.json",
+      "profile_url": "https://coalitionmembers.atlasai.institute/members/iftekhar-hossain/",
+      "membership_type": "Founding Member"
+    },
+    {
+      "member_id": "AGPC-006",
+      "slug": "mohsena-akter-drishty",
+      "folder": "AGPC-006_mohsena-akter-drishty",
+      "profile_file": "AGPC-006_mohsena-akter-drishty/profile.json",
+      "metadata_file": "AGPC-006_mohsena-akter-drishty/metadata.json",
+      "profile_url": "https://coalitionmembers.atlasai.institute/members/mohsena-akter-drishty/",
+      "membership_type": "Founding Member"
+    },
+    {
+      "member_id": "AGPC-007",
+      "slug": "nafiul-ahmad-rafi",
+      "folder": "AGPC-007_nafiul-ahmad-rafi",
+      "profile_file": "AGPC-007_nafiul-ahmad-rafi/profile.json",
+      "metadata_file": "AGPC-007_nafiul-ahmad-rafi/metadata.json",
+      "profile_url": "https://coalitionmembers.atlasai.institute/members/nafiul-ahmad-rafi/",
+      "membership_type": "Founding Member"
+    },
+    {
+      "member_id": "AGPC-008",
+      "slug": "neaz-mujeri",
+      "folder": "AGPC-008_neaz-mujeri",
+      "profile_file": "AGPC-008_neaz-mujeri/profile.json",
+      "metadata_file": "AGPC-008_neaz-mujeri/metadata.json",
+      "profile_url": "https://coalitionmembers.atlasai.institute/members/neaz-mujeri/",
+      "membership_type": "Founding Member"
+    },
+    {
+      "member_id": "AGPC-009",
+      "slug": "pr-agency-in-bangladesh",
+      "folder": "AGPC-009_pr-agency-in-bangladesh",
+      "profile_file": "AGPC-009_pr-agency-in-bangladesh/profile.json",
+      "metadata_file": "AGPC-009_pr-agency-in-bangladesh/metadata.json",
+      "profile_url": "https://coalitionmembers.atlasai.institute/members/pr-agency-in-bangladesh/",
+      "membership_type": "Founding Member"
+    },
+    {
+      "member_id": "AGPC-010",
+      "slug": "tahsina-farah-sanam-phd",
+      "folder": "AGPC-010_tahsina-farah-sanam-phd",
+      "profile_file": "AGPC-010_tahsina-farah-sanam-phd/profile.json",
+      "metadata_file": "AGPC-010_tahsina-farah-sanam-phd/metadata.json",
+      "profile_url": "https://coalitionmembers.atlasai.institute/members/tahsina-farah-sanam-phd/",
+      "membership_type": "Founding Member"
+    },
+    {
+      "member_id": "AGPC-011",
+      "slug": "zico-chakma",
+      "folder": "AGPC-011_zico-chakma",
+      "profile_file": "AGPC-011_zico-chakma/profile.json",
+      "metadata_file": "AGPC-011_zico-chakma/metadata.json",
+      "profile_url": "https://coalitionmembers.atlasai.institute/members/zico-chakma/",
+      "membership_type": "Founding Member"
+    },
+    {
+      "member_id": "AGPC-012",
+      "slug": "giovanna-jaramillo-gutierrez",
+      "folder": "AGPC-012_giovanna-jaramillo-gutierrez",
+      "profile_file": "AGPC-012_giovanna-jaramillo-gutierrez/profile.json",
+      "metadata_file": "AGPC-012_giovanna-jaramillo-gutierrez/metadata.json",
+      "profile_url": "https://coalitionmembers.atlasai.institute/members/giovanna-jaramillo-gutierrez/",
+      "membership_type": "Founding Member"
+    },
+    {
+      "member_id": "AGPC-013",
+      "slug": "sithar-norbu",
+      "folder": "AGPC-013_sithar-norbu",
+      "profile_file": "AGPC-013_sithar-norbu/profile.json",
+      "metadata_file": "AGPC-013_sithar-norbu/metadata.json",
+      "profile_url": "https://coalitionmembers.atlasai.institute/members/sithar-norbu/",
+      "membership_type": "Founding Member"
+    },
+    {
+      "member_id": "AGPC-014",
+      "slug": "camila-ramos-da-silva",
+      "folder": "AGPC-014_camila-ramos-da-silva",
+      "profile_file": "AGPC-014_camila-ramos-da-silva/profile.json",
+      "metadata_file": "AGPC-014_camila-ramos-da-silva/metadata.json",
+      "profile_url": "https://coalitionmembers.atlasai.institute/members/camila-ramos-da-silva/",
+      "membership_type": "Founding Member"
+    },
+    {
+      "member_id": "AGPC-015",
+      "slug": "gabrielly-pereira-fonceca",
+      "folder": "AGPC-015_gabrielly-pereira-fonceca",
+      "profile_file": "AGPC-015_gabrielly-pereira-fonceca/profile.json",
+      "metadata_file": "AGPC-015_gabrielly-pereira-fonceca/metadata.json",
+      "profile_url": "https://coalitionmembers.atlasai.institute/members/gabrielly-pereira-fonceca/",
+      "membership_type": "Founding Member"
+    },
+    {
+      "member_id": "AGPC-016",
+      "slug": "mirella-domenich",
+      "folder": "AGPC-016_mirella-domenich",
+      "profile_file": "AGPC-016_mirella-domenich/profile.json",
+      "metadata_file": "AGPC-016_mirella-domenich/metadata.json",
+      "profile_url": "https://coalitionmembers.atlasai.institute/members/mirella-domenich/",
+      "membership_type": "Founding Member"
+    },
+    {
+      "member_id": "AGPC-017",
+      "slug": "rosana-dangui",
+      "folder": "AGPC-017_rosana-dangui",
+      "profile_file": "AGPC-017_rosana-dangui/profile.json",
+      "metadata_file": "AGPC-017_rosana-dangui/metadata.json",
+      "profile_url": "https://coalitionmembers.atlasai.institute/members/rosana-dangui/",
+      "membership_type": "Founding Member"
+    },
+    {
+      "member_id": "AGPC-018",
+      "slug": "kiswendsida-romuald-zongo",
+      "folder": "AGPC-018_kiswendsida-romuald-zongo",
+      "profile_file": "AGPC-018_kiswendsida-romuald-zongo/profile.json",
+      "metadata_file": "AGPC-018_kiswendsida-romuald-zongo/metadata.json",
+      "profile_url": "https://coalitionmembers.atlasai.institute/members/kiswendsida-romuald-zongo/",
+      "membership_type": "Founding Member"
+    },
+    {
+      "member_id": "AGPC-019",
+      "slug": "soumana-dama",
+      "folder": "AGPC-019_soumana-dama",
+      "profile_file": "AGPC-019_soumana-dama/profile.json",
+      "metadata_file": "AGPC-019_soumana-dama/metadata.json",
+      "profile_url": "https://coalitionmembers.atlasai.institute/members/soumana-dama/",
+      "membership_type": "Founding Member"
+    },
+    {
+      "member_id": "AGPC-020",
+      "slug": "douglas-mbang-massom",
+      "folder": "AGPC-020_douglas-mbang-massom",
+      "profile_file": "AGPC-020_douglas-mbang-massom/profile.json",
+      "metadata_file": "AGPC-020_douglas-mbang-massom/metadata.json",
+      "profile_url": "https://coalitionmembers.atlasai.institute/members/douglas-mbang-massom/",
+      "membership_type": "Founding Member"
+    },
+    {
+      "member_id": "AGPC-021",
+      "slug": "franklin-tchakounte",
+      "folder": "AGPC-021_franklin-tchakounte",
+      "profile_file": "AGPC-021_franklin-tchakounte/profile.json",
+      "metadata_file": "AGPC-021_franklin-tchakounte/metadata.json",
+      "profile_url": "https://coalitionmembers.atlasai.institute/members/franklin-tchakounte/",
+      "membership_type": "Founding Member"
+    },
+    {
+      "member_id": "AGPC-022",
+      "slug": "sergius-justus-chesami-nyah",
+      "folder": "AGPC-022_sergius-justus-chesami-nyah",
+      "profile_file": "AGPC-022_sergius-justus-chesami-nyah/profile.json",
+      "metadata_file": "AGPC-022_sergius-justus-chesami-nyah/metadata.json",
+      "profile_url": "https://coalitionmembers.atlasai.institute/members/sergius-justus-chesami-nyah/",
+      "membership_type": "Founding Member"
+    },
+    {
+      "member_id": "AGPC-023",
+      "slug": "citlalli-rios",
+      "folder": "AGPC-023_citlalli-rios",
+      "profile_file": "AGPC-023_citlalli-rios/profile.json",
+      "metadata_file": "AGPC-023_citlalli-rios/metadata.json",
+      "profile_url": "https://coalitionmembers.atlasai.institute/members/citlalli-rios/",
+      "membership_type": "Founding Member"
+    },
+    {
+      "member_id": "AGPC-024",
+      "slug": "debjyoti-mukherjee",
+      "folder": "AGPC-024_debjyoti-mukherjee",
+      "profile_file": "AGPC-024_debjyoti-mukherjee/profile.json",
+      "metadata_file": "AGPC-024_debjyoti-mukherjee/metadata.json",
+      "profile_url": "https://coalitionmembers.atlasai.institute/members/debjyoti-mukherjee/",
+      "membership_type": "Founding Member"
+    },
+    {
+      "member_id": "AGPC-025",
+      "slug": "simone-holligan",
+      "folder": "AGPC-025_simone-holligan",
+      "profile_file": "AGPC-025_simone-holligan/profile.json",
+      "metadata_file": "AGPC-025_simone-holligan/metadata.json",
+      "profile_url": "https://coalitionmembers.atlasai.institute/members/simone-holligan/",
+      "membership_type": "Founding Member"
+    },
+    {
+      "member_id": "AGPC-026",
+      "slug": "elizabeth-lyssa-ballesteros",
+      "folder": "AGPC-026_elizabeth-lyssa-ballesteros",
+      "profile_file": "AGPC-026_elizabeth-lyssa-ballesteros/profile.json",
+      "metadata_file": "AGPC-026_elizabeth-lyssa-ballesteros/metadata.json",
+      "profile_url": "https://coalitionmembers.atlasai.institute/members/elizabeth-lyssa-ballesteros/",
+      "membership_type": "Founding Member"
+    },
+    {
+      "member_id": "AGPC-027",
+      "slug": "steven-guerrero",
+      "folder": "AGPC-027_steven-guerrero",
+      "profile_file": "AGPC-027_steven-guerrero/profile.json",
+      "metadata_file": "AGPC-027_steven-guerrero/metadata.json",
+      "profile_url": "https://coalitionmembers.atlasai.institute/members/steven-guerrero/",
+      "membership_type": "Founding Member"
+    },
+    {
+      "member_id": "AGPC-028",
+      "slug": "yefry-nunez",
+      "folder": "AGPC-028_yefry-nunez",
+      "profile_file": "AGPC-028_yefry-nunez/profile.json",
+      "metadata_file": "AGPC-028_yefry-nunez/metadata.json",
+      "profile_url": "https://coalitionmembers.atlasai.institute/members/yefry-nunez/",
+      "membership_type": "Founding Member"
+    },
+    {
+      "member_id": "AGPC-029",
+      "slug": "gabriel-hidalgo-andrade",
+      "folder": "AGPC-029_gabriel-hidalgo-andrade",
+      "profile_file": "AGPC-029_gabriel-hidalgo-andrade/profile.json",
+      "metadata_file": "AGPC-029_gabriel-hidalgo-andrade/metadata.json",
+      "profile_url": "https://coalitionmembers.atlasai.institute/members/gabriel-hidalgo-andrade/",
+      "membership_type": "Founding Member"
+    },
+    {
+      "member_id": "AGPC-030",
+      "slug": "katherine-velastegui-arias",
+      "folder": "AGPC-030_katherine-velastegui-arias",
+      "profile_file": "AGPC-030_katherine-velastegui-arias/profile.json",
+      "metadata_file": "AGPC-030_katherine-velastegui-arias/metadata.json",
+      "profile_url": "https://coalitionmembers.atlasai.institute/members/katherine-velastegui-arias/",
+      "membership_type": "Founding Member"
+    },
+    {
+      "member_id": "AGPC-031",
+      "slug": "yalile-loaiza",
+      "folder": "AGPC-031_yalile-loaiza",
+      "profile_file": "AGPC-031_yalile-loaiza/profile.json",
+      "metadata_file": "AGPC-031_yalile-loaiza/metadata.json",
+      "profile_url": "https://coalitionmembers.atlasai.institute/members/yalile-loaiza/",
+      "membership_type": "Founding Member"
+    },
+    {
+      "member_id": "AGPC-032",
+      "slug": "ramy-magdi",
+      "folder": "AGPC-032_ramy-magdi",
+      "profile_file": "AGPC-032_ramy-magdi/profile.json",
+      "metadata_file": "AGPC-032_ramy-magdi/metadata.json",
+      "profile_url": "https://coalitionmembers.atlasai.institute/members/ramy-magdi/",
+      "membership_type": "Founding Member"
+    },
+    {
+      "member_id": "AGPC-033",
+      "slug": "belay-enyew-chekol",
+      "folder": "AGPC-033_belay-enyew-chekol",
+      "profile_file": "AGPC-033_belay-enyew-chekol/profile.json",
+      "metadata_file": "AGPC-033_belay-enyew-chekol/metadata.json",
+      "profile_url": "https://coalitionmembers.atlasai.institute/members/belay-enyew-chekol/",
+      "membership_type": "Founding Member"
+    },
+    {
+      "member_id": "AGPC-034",
+      "slug": "fuad-khan",
+      "folder": "AGPC-034_fuad-khan",
+      "profile_file": "AGPC-034_fuad-khan/profile.json",
+      "metadata_file": "AGPC-034_fuad-khan/metadata.json",
+      "profile_url": "https://coalitionmembers.atlasai.institute/members/fuad-khan/",
+      "membership_type": "Founding Member"
+    },
+    {
+      "member_id": "AGPC-035",
+      "slug": "dr-sangeeta-mahapatra",
+      "folder": "AGPC-035_dr-sangeeta-mahapatra",
+      "profile_file": "AGPC-035_dr-sangeeta-mahapatra/profile.json",
+      "metadata_file": "AGPC-035_dr-sangeeta-mahapatra/metadata.json",
+      "profile_url": "https://coalitionmembers.atlasai.institute/members/dr-sangeeta-mahapatra/",
+      "membership_type": "Founding Member"
+    },
+    {
+      "member_id": "AGPC-036",
+      "slug": "carl-sherson-clermont",
+      "folder": "AGPC-036_carl-sherson-clermont",
+      "profile_file": "AGPC-036_carl-sherson-clermont/profile.json",
+      "metadata_file": "AGPC-036_carl-sherson-clermont/metadata.json",
+      "profile_url": "https://coalitionmembers.atlasai.institute/members/carl-sherson-clermont/",
+      "membership_type": "Founding Member"
+    },
+    {
+      "member_id": "AGPC-037",
+      "slug": "abeer-sharma",
+      "folder": "AGPC-037_abeer-sharma",
+      "profile_file": "AGPC-037_abeer-sharma/profile.json",
+      "metadata_file": "AGPC-037_abeer-sharma/metadata.json",
+      "profile_url": "https://coalitionmembers.atlasai.institute/members/abeer-sharma/",
+      "membership_type": "Founding Member"
+    },
+    {
+      "member_id": "AGPC-038",
+      "slug": "gabor-soos-phd",
+      "folder": "AGPC-038_gabor-soos-phd",
+      "profile_file": "AGPC-038_gabor-soos-phd/profile.json",
+      "metadata_file": "AGPC-038_gabor-soos-phd/metadata.json",
+      "profile_url": "https://coalitionmembers.atlasai.institute/members/gabor-soos-phd/",
+      "membership_type": "Founding Member"
+    },
+    {
+      "member_id": "AGPC-039",
+      "slug": "anukriti-gupta",
+      "folder": "AGPC-039_anukriti-gupta",
+      "profile_file": "AGPC-039_anukriti-gupta/profile.json",
+      "metadata_file": "AGPC-039_anukriti-gupta/metadata.json",
+      "profile_url": "https://coalitionmembers.atlasai.institute/members/anukriti-gupta/",
+      "membership_type": "Founding Member"
+    },
+    {
+      "member_id": "AGPC-040",
+      "slug": "chandramouly-pandey",
+      "folder": "AGPC-040_chandramouly-pandey",
+      "profile_file": "AGPC-040_chandramouly-pandey/profile.json",
+      "metadata_file": "AGPC-040_chandramouly-pandey/metadata.json",
+      "profile_url": "https://coalitionmembers.atlasai.institute/members/chandramouly-pandey/",
+      "membership_type": "Founding Member"
+    },
+    {
+      "member_id": "AGPC-041",
+      "slug": "chirag-j-belani",
+      "folder": "AGPC-041_chirag-j-belani",
+      "profile_file": "AGPC-041_chirag-j-belani/profile.json",
+      "metadata_file": "AGPC-041_chirag-j-belani/metadata.json",
+      "profile_url": "https://coalitionmembers.atlasai.institute/members/chirag-j-belani/",
+      "membership_type": "Founding Member"
+    },
+    {
+      "member_id": "AGPC-042",
+      "slug": "dr-akanksha-kulkarni",
+      "folder": "AGPC-042_dr-akanksha-kulkarni",
+      "profile_file": "AGPC-042_dr-akanksha-kulkarni/profile.json",
+      "metadata_file": "AGPC-042_dr-akanksha-kulkarni/metadata.json",
+      "profile_url": "https://coalitionmembers.atlasai.institute/members/dr-akanksha-kulkarni/",
+      "membership_type": "Founding Member"
+    },
+    {
+      "member_id": "AGPC-043",
+      "slug": "gayathri-a",
+      "folder": "AGPC-043_gayathri-a",
+      "profile_file": "AGPC-043_gayathri-a/profile.json",
+      "metadata_file": "AGPC-043_gayathri-a/metadata.json",
+      "profile_url": "https://coalitionmembers.atlasai.institute/members/gayathri-a/",
+      "membership_type": "Founding Member"
+    },
+    {
+      "member_id": "AGPC-044",
+      "slug": "ishika-rajveer",
+      "folder": "AGPC-044_ishika-rajveer",
+      "profile_file": "AGPC-044_ishika-rajveer/profile.json",
+      "metadata_file": "AGPC-044_ishika-rajveer/metadata.json",
+      "profile_url": "https://coalitionmembers.atlasai.institute/members/ishika-rajveer/",
+      "membership_type": "Founding Member"
+    },
+    {
+      "member_id": "AGPC-045",
+      "slug": "jahnvee-tripathi",
+      "folder": "AGPC-045_jahnvee-tripathi",
+      "profile_file": "AGPC-045_jahnvee-tripathi/profile.json",
+      "metadata_file": "AGPC-045_jahnvee-tripathi/metadata.json",
+      "profile_url": "https://coalitionmembers.atlasai.institute/members/jahnvee-tripathi/",
+      "membership_type": "Founding Member"
+    },
+    {
+      "member_id": "AGPC-046",
+      "slug": "jalaj-nayan",
+      "folder": "AGPC-046_jalaj-nayan",
+      "profile_file": "AGPC-046_jalaj-nayan/profile.json",
+      "metadata_file": "AGPC-046_jalaj-nayan/metadata.json",
+      "profile_url": "https://coalitionmembers.atlasai.institute/members/jalaj-nayan/",
+      "membership_type": "Founding Member"
+    },
+    {
+      "member_id": "AGPC-047",
+      "slug": "japmandeep-singh-ahluwalia",
+      "folder": "AGPC-047_japmandeep-singh-ahluwalia",
+      "profile_file": "AGPC-047_japmandeep-singh-ahluwalia/profile.json",
+      "metadata_file": "AGPC-047_japmandeep-singh-ahluwalia/metadata.json",
+      "profile_url": "https://coalitionmembers.atlasai.institute/members/japmandeep-singh-ahluwalia/",
+      "membership_type": "Founding Member"
+    },
+    {
+      "member_id": "AGPC-048",
+      "slug": "kamleshwar",
+      "folder": "AGPC-048_kamleshwar",
+      "profile_file": "AGPC-048_kamleshwar/profile.json",
+      "metadata_file": "AGPC-048_kamleshwar/metadata.json",
+      "profile_url": "https://coalitionmembers.atlasai.institute/members/kamleshwar/",
+      "membership_type": "Founding Member"
+    },
+    {
+      "member_id": "AGPC-049",
+      "slug": "megha-gautama",
+      "folder": "AGPC-049_megha-gautama",
+      "profile_file": "AGPC-049_megha-gautama/profile.json",
+      "metadata_file": "AGPC-049_megha-gautama/metadata.json",
+      "profile_url": "https://coalitionmembers.atlasai.institute/members/megha-gautama/",
+      "membership_type": "Founding Member"
+    },
+    {
+      "member_id": "AGPC-050",
+      "slug": "mywish-anand",
+      "folder": "AGPC-050_mywish-anand",
+      "profile_file": "AGPC-050_mywish-anand/profile.json",
+      "metadata_file": "AGPC-050_mywish-anand/metadata.json",
+      "profile_url": "https://coalitionmembers.atlasai.institute/members/mywish-anand/",
+      "membership_type": "Founding Member"
+    },
+    {
+      "member_id": "AGPC-051",
+      "slug": "narendra-kumar",
+      "folder": "AGPC-051_narendra-kumar",
+      "profile_file": "AGPC-051_narendra-kumar/profile.json",
+      "metadata_file": "AGPC-051_narendra-kumar/metadata.json",
+      "profile_url": "https://coalitionmembers.atlasai.institute/members/narendra-kumar/",
+      "membership_type": "Founding Member"
+    },
+    {
+      "member_id": "AGPC-052",
+      "slug": "nikunj-doshi",
+      "folder": "AGPC-052_nikunj-doshi",
+      "profile_file": "AGPC-052_nikunj-doshi/profile.json",
+      "metadata_file": "AGPC-052_nikunj-doshi/metadata.json",
+      "profile_url": "https://coalitionmembers.atlasai.institute/members/nikunj-doshi/",
+      "membership_type": "Founding Member"
+    },
+    {
+      "member_id": "AGPC-053",
+      "slug": "pavan-m",
+      "folder": "AGPC-053_pavan-m",
+      "profile_file": "AGPC-053_pavan-m/profile.json",
+      "metadata_file": "AGPC-053_pavan-m/metadata.json",
+      "profile_url": "https://coalitionmembers.atlasai.institute/members/pavan-m/",
+      "membership_type": "Founding Member"
+    },
+    {
+      "member_id": "AGPC-054",
+      "slug": "pratyush-ranjan",
+      "folder": "AGPC-054_pratyush-ranjan",
+      "profile_file": "AGPC-054_pratyush-ranjan/profile.json",
+      "metadata_file": "AGPC-054_pratyush-ranjan/metadata.json",
+      "profile_url": "https://coalitionmembers.atlasai.institute/members/pratyush-ranjan/",
+      "membership_type": "Founding Member"
+    },
+    {
+      "member_id": "AGPC-055",
+      "slug": "radhika-venkatarayan",
+      "folder": "AGPC-055_radhika-venkatarayan",
+      "profile_file": "AGPC-055_radhika-venkatarayan/profile.json",
+      "metadata_file": "AGPC-055_radhika-venkatarayan/metadata.json",
+      "profile_url": "https://coalitionmembers.atlasai.institute/members/radhika-venkatarayan/",
+      "membership_type": "Founding Member"
+    },
+    {
+      "member_id": "AGPC-056",
+      "slug": "rahul-singh",
+      "folder": "AGPC-056_rahul-singh",
+      "profile_file": "AGPC-056_rahul-singh/profile.json",
+      "metadata_file": "AGPC-056_rahul-singh/metadata.json",
+      "profile_url": "https://coalitionmembers.atlasai.institute/members/rahul-singh/",
+      "membership_type": "Founding Member"
+    },
+    {
+      "member_id": "AGPC-057",
+      "slug": "ritin-singh-parmar",
+      "folder": "AGPC-057_ritin-singh-parmar",
+      "profile_file": "AGPC-057_ritin-singh-parmar/profile.json",
+      "metadata_file": "AGPC-057_ritin-singh-parmar/metadata.json",
+      "profile_url": "https://coalitionmembers.atlasai.institute/members/ritin-singh-parmar/",
+      "membership_type": "Founding Member"
+    },
+    {
+      "member_id": "AGPC-058",
+      "slug": "rushikesh-kokare",
+      "folder": "AGPC-058_rushikesh-kokare",
+      "profile_file": "AGPC-058_rushikesh-kokare/profile.json",
+      "metadata_file": "AGPC-058_rushikesh-kokare/metadata.json",
+      "profile_url": "https://coalitionmembers.atlasai.institute/members/rushikesh-kokare/",
+      "membership_type": "Founding Member"
+    },
+    {
+      "member_id": "AGPC-059",
+      "slug": "utkarsh-choudhary",
+      "folder": "AGPC-059_utkarsh-choudhary",
+      "profile_file": "AGPC-059_utkarsh-choudhary/profile.json",
+      "metadata_file": "AGPC-059_utkarsh-choudhary/metadata.json",
+      "profile_url": "https://coalitionmembers.atlasai.institute/members/utkarsh-choudhary/",
+      "membership_type": "Founding Member"
+    },
+    {
+      "member_id": "AGPC-060",
+      "slug": "vineet-kumar",
+      "folder": "AGPC-060_vineet-kumar",
+      "profile_file": "AGPC-060_vineet-kumar/profile.json",
+      "metadata_file": "AGPC-060_vineet-kumar/metadata.json",
+      "profile_url": "https://coalitionmembers.atlasai.institute/members/vineet-kumar/",
+      "membership_type": "Founding Member"
+    },
+    {
+      "member_id": "AGPC-061",
+      "slug": "anis-fuad",
+      "folder": "AGPC-061_anis-fuad",
+      "profile_file": "AGPC-061_anis-fuad/profile.json",
+      "metadata_file": "AGPC-061_anis-fuad/metadata.json",
+      "profile_url": "https://coalitionmembers.atlasai.institute/members/anis-fuad/",
+      "membership_type": "Founding Member"
+    },
+    {
+      "member_id": "AGPC-062",
+      "slug": "faisal-yusuf",
+      "folder": "AGPC-062_faisal-yusuf",
+      "profile_file": "AGPC-062_faisal-yusuf/profile.json",
+      "metadata_file": "AGPC-062_faisal-yusuf/metadata.json",
+      "profile_url": "https://coalitionmembers.atlasai.institute/members/faisal-yusuf/",
+      "membership_type": "Founding Member"
+    },
+    {
+      "member_id": "AGPC-063",
+      "slug": "farhan-helmy",
+      "folder": "AGPC-063_farhan-helmy",
+      "profile_file": "AGPC-063_farhan-helmy/profile.json",
+      "metadata_file": "AGPC-063_farhan-helmy/metadata.json",
+      "profile_url": "https://coalitionmembers.atlasai.institute/members/farhan-helmy/",
+      "membership_type": "Founding Member"
+    },
+    {
+      "member_id": "AGPC-064",
+      "slug": "irwansyah-s-sos-m-a-0908050337",
+      "folder": "AGPC-064_irwansyah-s-sos-m-a-0908050337",
+      "profile_file": "AGPC-064_irwansyah-s-sos-m-a-0908050337/profile.json",
+      "metadata_file": "AGPC-064_irwansyah-s-sos-m-a-0908050337/metadata.json",
+      "profile_url": "https://coalitionmembers.atlasai.institute/members/irwansyah-s-sos-m-a-0908050337/",
+      "membership_type": "Founding Member"
+    },
+    {
+      "member_id": "AGPC-065",
+      "slug": "amir-mohammad-ahmadi",
+      "folder": "AGPC-065_amir-mohammad-ahmadi",
+      "profile_file": "AGPC-065_amir-mohammad-ahmadi/profile.json",
+      "metadata_file": "AGPC-065_amir-mohammad-ahmadi/metadata.json",
+      "profile_url": "https://coalitionmembers.atlasai.institute/members/amir-mohammad-ahmadi/",
+      "membership_type": "Founding Member"
+    },
+    {
+      "member_id": "AGPC-066",
+      "slug": "dr-john-oloo-gwendo",
+      "folder": "AGPC-066_dr-john-oloo-gwendo",
+      "profile_file": "AGPC-066_dr-john-oloo-gwendo/profile.json",
+      "metadata_file": "AGPC-066_dr-john-oloo-gwendo/metadata.json",
+      "profile_url": "https://coalitionmembers.atlasai.institute/members/dr-john-oloo-gwendo/",
+      "membership_type": "Founding Member"
+    },
+    {
+      "member_id": "AGPC-067",
+      "slug": "hannington-mwenda",
+      "folder": "AGPC-067_hannington-mwenda",
+      "profile_file": "AGPC-067_hannington-mwenda/profile.json",
+      "metadata_file": "AGPC-067_hannington-mwenda/metadata.json",
+      "profile_url": "https://coalitionmembers.atlasai.institute/members/hannington-mwenda/",
+      "membership_type": "Founding Member"
+    },
+    {
+      "member_id": "AGPC-068",
+      "slug": "kenneth-leonard",
+      "folder": "AGPC-068_kenneth-leonard",
+      "profile_file": "AGPC-068_kenneth-leonard/profile.json",
+      "metadata_file": "AGPC-068_kenneth-leonard/metadata.json",
+      "profile_url": "https://coalitionmembers.atlasai.institute/members/kenneth-leonard/",
+      "membership_type": "Founding Member"
+    },
+    {
+      "member_id": "AGPC-069",
+      "slug": "ali-bakeer",
+      "folder": "AGPC-069_ali-bakeer",
+      "profile_file": "AGPC-069_ali-bakeer/profile.json",
+      "metadata_file": "AGPC-069_ali-bakeer/metadata.json",
+      "profile_url": "https://coalitionmembers.atlasai.institute/members/ali-bakeer/",
+      "membership_type": "Founding Member"
+    },
+    {
+      "member_id": "AGPC-070",
+      "slug": "rabefiringa-ravanomanana-stephanie-hanitriniaina",
+      "folder": "AGPC-070_rabefiringa-ravanomanana-stephanie-hanitriniaina",
+      "profile_file": "AGPC-070_rabefiringa-ravanomanana-stephanie-hanitriniaina/profile.json",
+      "metadata_file": "AGPC-070_rabefiringa-ravanomanana-stephanie-hanitriniaina/metadata.json",
+      "profile_url": "https://coalitionmembers.atlasai.institute/members/rabefiringa-ravanomanana-stephanie-hanitriniaina/",
+      "membership_type": "Founding Member"
+    },
+    {
+      "member_id": "AGPC-071",
+      "slug": "williams-stonard-kaphika",
+      "folder": "AGPC-071_williams-stonard-kaphika",
+      "profile_file": "AGPC-071_williams-stonard-kaphika/profile.json",
+      "metadata_file": "AGPC-071_williams-stonard-kaphika/metadata.json",
+      "profile_url": "https://coalitionmembers.atlasai.institute/members/williams-stonard-kaphika/",
+      "membership_type": "Founding Member"
+    },
+    {
+      "member_id": "AGPC-072",
+      "slug": "lianna-adams",
+      "folder": "AGPC-072_lianna-adams",
+      "profile_file": "AGPC-072_lianna-adams/profile.json",
+      "metadata_file": "AGPC-072_lianna-adams/metadata.json",
+      "profile_url": "https://coalitionmembers.atlasai.institute/members/lianna-adams/",
+      "membership_type": "Founding Member"
+    },
+    {
+      "member_id": "AGPC-073",
+      "slug": "mahbub-e-shobhanee",
+      "folder": "AGPC-073_mahbub-e-shobhanee",
+      "profile_file": "AGPC-073_mahbub-e-shobhanee/profile.json",
+      "metadata_file": "AGPC-073_mahbub-e-shobhanee/metadata.json",
+      "profile_url": "https://coalitionmembers.atlasai.institute/members/mahbub-e-shobhanee/",
+      "membership_type": "Founding Member"
+    },
+    {
+      "member_id": "AGPC-074",
+      "slug": "rooba-yanembal-moorghen",
+      "folder": "AGPC-074_rooba-yanembal-moorghen",
+      "profile_file": "AGPC-074_rooba-yanembal-moorghen/profile.json",
+      "metadata_file": "AGPC-074_rooba-yanembal-moorghen/metadata.json",
+      "profile_url": "https://coalitionmembers.atlasai.institute/members/rooba-yanembal-moorghen/",
+      "membership_type": "Founding Member"
+    },
+    {
+      "member_id": "AGPC-075",
+      "slug": "asad-abbas",
+      "folder": "AGPC-075_asad-abbas",
+      "profile_file": "AGPC-075_asad-abbas/profile.json",
+      "metadata_file": "AGPC-075_asad-abbas/metadata.json",
+      "profile_url": "https://coalitionmembers.atlasai.institute/members/asad-abbas/",
+      "membership_type": "Founding Member"
+    },
+    {
+      "member_id": "AGPC-076",
+      "slug": "jesica-edith-tapia-reyes",
+      "folder": "AGPC-076_jesica-edith-tapia-reyes",
+      "profile_file": "AGPC-076_jesica-edith-tapia-reyes/profile.json",
+      "metadata_file": "AGPC-076_jesica-edith-tapia-reyes/metadata.json",
+      "profile_url": "https://coalitionmembers.atlasai.institute/members/jesica-edith-tapia-reyes/",
+      "membership_type": "Founding Member"
+    },
+    {
+      "member_id": "AGPC-077",
+      "slug": "robert-oscar-harmsen",
+      "folder": "AGPC-077_robert-oscar-harmsen",
+      "profile_file": "AGPC-077_robert-oscar-harmsen/profile.json",
+      "metadata_file": "AGPC-077_robert-oscar-harmsen/metadata.json",
+      "profile_url": "https://coalitionmembers.atlasai.institute/members/robert-oscar-harmsen/",
+      "membership_type": "Founding Member"
+    },
+    {
+      "member_id": "AGPC-078",
+      "slug": "mohammed-khalil",
+      "folder": "AGPC-078_mohammed-khalil",
+      "profile_file": "AGPC-078_mohammed-khalil/profile.json",
+      "metadata_file": "AGPC-078_mohammed-khalil/metadata.json",
+      "profile_url": "https://coalitionmembers.atlasai.institute/members/mohammed-khalil/",
+      "membership_type": "Founding Member"
+    },
+    {
+      "member_id": "AGPC-079",
+      "slug": "rabin-bhandari",
+      "folder": "AGPC-079_rabin-bhandari",
+      "profile_file": "AGPC-079_rabin-bhandari/profile.json",
+      "metadata_file": "AGPC-079_rabin-bhandari/metadata.json",
+      "profile_url": "https://coalitionmembers.atlasai.institute/members/rabin-bhandari/",
+      "membership_type": "Founding Member"
+    },
+    {
+      "member_id": "AGPC-080",
+      "slug": "karaitiana-taiuru",
+      "folder": "AGPC-080_karaitiana-taiuru",
+      "profile_file": "AGPC-080_karaitiana-taiuru/profile.json",
+      "metadata_file": "AGPC-080_karaitiana-taiuru/metadata.json",
+      "profile_url": "https://coalitionmembers.atlasai.institute/members/karaitiana-taiuru/",
+      "membership_type": "Founding Member"
+    },
+    {
+      "member_id": "AGPC-081",
+      "slug": "adams-momoh",
+      "folder": "AGPC-081_adams-momoh",
+      "profile_file": "AGPC-081_adams-momoh/profile.json",
+      "metadata_file": "AGPC-081_adams-momoh/metadata.json",
+      "profile_url": "https://coalitionmembers.atlasai.institute/members/adams-momoh/",
+      "membership_type": "Founding Member"
+    },
+    {
+      "member_id": "AGPC-082",
+      "slug": "christian-usoro",
+      "folder": "AGPC-082_christian-usoro",
+      "profile_file": "AGPC-082_christian-usoro/profile.json",
+      "metadata_file": "AGPC-082_christian-usoro/metadata.json",
+      "profile_url": "https://coalitionmembers.atlasai.institute/members/christian-usoro/",
+      "membership_type": "Founding Member"
+    },
+    {
+      "member_id": "AGPC-083",
+      "slug": "ebenezer-imoh",
+      "folder": "AGPC-083_ebenezer-imoh",
+      "profile_file": "AGPC-083_ebenezer-imoh/profile.json",
+      "metadata_file": "AGPC-083_ebenezer-imoh/metadata.json",
+      "profile_url": "https://coalitionmembers.atlasai.institute/members/ebenezer-imoh/",
+      "membership_type": "Founding Member"
+    },
+    {
+      "member_id": "AGPC-084",
+      "slug": "ebikara-daniel-spiff",
+      "folder": "AGPC-084_ebikara-daniel-spiff",
+      "profile_file": "AGPC-084_ebikara-daniel-spiff/profile.json",
+      "metadata_file": "AGPC-084_ebikara-daniel-spiff/metadata.json",
+      "profile_url": "https://coalitionmembers.atlasai.institute/members/ebikara-daniel-spiff/",
+      "membership_type": "Founding Member"
+    },
+    {
+      "member_id": "AGPC-085",
+      "slug": "hassan-raji",
+      "folder": "AGPC-085_hassan-raji",
+      "profile_file": "AGPC-085_hassan-raji/profile.json",
+      "metadata_file": "AGPC-085_hassan-raji/metadata.json",
+      "profile_url": "https://coalitionmembers.atlasai.institute/members/hassan-raji/",
+      "membership_type": "Founding Member"
+    },
+    {
+      "member_id": "AGPC-086",
+      "slug": "malcolm-durosaye",
+      "folder": "AGPC-086_malcolm-durosaye",
+      "profile_file": "AGPC-086_malcolm-durosaye/profile.json",
+      "metadata_file": "AGPC-086_malcolm-durosaye/metadata.json",
+      "profile_url": "https://coalitionmembers.atlasai.institute/members/malcolm-durosaye/",
+      "membership_type": "Founding Member"
+    },
+    {
+      "member_id": "AGPC-087",
+      "slug": "muhammad-ahmad-janyau",
+      "folder": "AGPC-087_muhammad-ahmad-janyau",
+      "profile_file": "AGPC-087_muhammad-ahmad-janyau/profile.json",
+      "metadata_file": "AGPC-087_muhammad-ahmad-janyau/metadata.json",
+      "profile_url": "https://coalitionmembers.atlasai.institute/members/muhammad-ahmad-janyau/",
+      "membership_type": "Founding Member"
+    },
+    {
+      "member_id": "AGPC-088",
+      "slug": "nuraini-usman",
+      "folder": "AGPC-088_nuraini-usman",
+      "profile_file": "AGPC-088_nuraini-usman/profile.json",
+      "metadata_file": "AGPC-088_nuraini-usman/metadata.json",
+      "profile_url": "https://coalitionmembers.atlasai.institute/members/nuraini-usman/",
+      "membership_type": "Founding Member"
+    },
+    {
+      "member_id": "AGPC-089",
+      "slug": "obasesam-okoi",
+      "folder": "AGPC-089_obasesam-okoi",
+      "profile_file": "AGPC-089_obasesam-okoi/profile.json",
+      "metadata_file": "AGPC-089_obasesam-okoi/metadata.json",
+      "profile_url": "https://coalitionmembers.atlasai.institute/members/obasesam-okoi/",
+      "membership_type": "Founding Member"
+    },
+    {
+      "member_id": "AGPC-090",
+      "slug": "olaolu-peter-oluwasanmi",
+      "folder": "AGPC-090_olaolu-peter-oluwasanmi",
+      "profile_file": "AGPC-090_olaolu-peter-oluwasanmi/profile.json",
+      "metadata_file": "AGPC-090_olaolu-peter-oluwasanmi/metadata.json",
+      "profile_url": "https://coalitionmembers.atlasai.institute/members/olaolu-peter-oluwasanmi/",
+      "membership_type": "Founding Member"
+    },
+    {
+      "member_id": "AGPC-091",
+      "slug": "oluwasoji-peter-akinbohun",
+      "folder": "AGPC-091_oluwasoji-peter-akinbohun",
+      "profile_file": "AGPC-091_oluwasoji-peter-akinbohun/profile.json",
+      "metadata_file": "AGPC-091_oluwasoji-peter-akinbohun/metadata.json",
+      "profile_url": "https://coalitionmembers.atlasai.institute/members/oluwasoji-peter-akinbohun/",
+      "membership_type": "Founding Member"
+    },
+    {
+      "member_id": "AGPC-092",
+      "slug": "pretty-tega-edema-phd",
+      "folder": "AGPC-092_pretty-tega-edema-phd",
+      "profile_file": "AGPC-092_pretty-tega-edema-phd/profile.json",
+      "metadata_file": "AGPC-092_pretty-tega-edema-phd/metadata.json",
+      "profile_url": "https://coalitionmembers.atlasai.institute/members/pretty-tega-edema-phd/",
+      "membership_type": "Founding Member"
+    },
+    {
+      "member_id": "AGPC-093",
+      "slug": "uloma-okoro",
+      "folder": "AGPC-093_uloma-okoro",
+      "profile_file": "AGPC-093_uloma-okoro/profile.json",
+      "metadata_file": "AGPC-093_uloma-okoro/metadata.json",
+      "profile_url": "https://coalitionmembers.atlasai.institute/members/uloma-okoro/",
+      "membership_type": "Founding Member"
+    },
+    {
+      "member_id": "AGPC-094",
+      "slug": "amna-afzal",
+      "folder": "AGPC-094_amna-afzal",
+      "profile_file": "AGPC-094_amna-afzal/profile.json",
+      "metadata_file": "AGPC-094_amna-afzal/metadata.json",
+      "profile_url": "https://coalitionmembers.atlasai.institute/members/amna-afzal/",
+      "membership_type": "Founding Member"
+    },
+    {
+      "member_id": "AGPC-095",
+      "slug": "irum-khan",
+      "folder": "AGPC-095_irum-khan",
+      "profile_file": "AGPC-095_irum-khan/profile.json",
+      "metadata_file": "AGPC-095_irum-khan/metadata.json",
+      "profile_url": "https://coalitionmembers.atlasai.institute/members/irum-khan/",
+      "membership_type": "Founding Member"
+    },
+    {
+      "member_id": "AGPC-096",
+      "slug": "rais-nouman-ahmed",
+      "folder": "AGPC-096_rais-nouman-ahmed",
+      "profile_file": "AGPC-096_rais-nouman-ahmed/profile.json",
+      "metadata_file": "AGPC-096_rais-nouman-ahmed/metadata.json",
+      "profile_url": "https://coalitionmembers.atlasai.institute/members/rais-nouman-ahmed/",
+      "membership_type": "Founding Member"
+    },
+    {
+      "member_id": "AGPC-097",
+      "slug": "sahar-gulzar",
+      "folder": "AGPC-097_sahar-gulzar",
+      "profile_file": "AGPC-097_sahar-gulzar/profile.json",
+      "metadata_file": "AGPC-097_sahar-gulzar/metadata.json",
+      "profile_url": "https://coalitionmembers.atlasai.institute/members/sahar-gulzar/",
+      "membership_type": "Founding Member"
+    },
+    {
+      "member_id": "AGPC-098",
+      "slug": "samina-saadia",
+      "folder": "AGPC-098_samina-saadia",
+      "profile_file": "AGPC-098_samina-saadia/profile.json",
+      "metadata_file": "AGPC-098_samina-saadia/metadata.json",
+      "profile_url": "https://coalitionmembers.atlasai.institute/members/samina-saadia/",
+      "membership_type": "Founding Member"
+    },
+    {
+      "member_id": "AGPC-099",
+      "slug": "usama-rashid",
+      "folder": "AGPC-099_usama-rashid",
+      "profile_file": "AGPC-099_usama-rashid/profile.json",
+      "metadata_file": "AGPC-099_usama-rashid/metadata.json",
+      "profile_url": "https://coalitionmembers.atlasai.institute/members/usama-rashid/",
+      "membership_type": "Founding Member"
+    },
+    {
+      "member_id": "AGPC-100",
+      "slug": "wasiq-ejaz",
+      "folder": "AGPC-100_wasiq-ejaz",
+      "profile_file": "AGPC-100_wasiq-ejaz/profile.json",
+      "metadata_file": "AGPC-100_wasiq-ejaz/metadata.json",
+      "profile_url": "https://coalitionmembers.atlasai.institute/members/wasiq-ejaz/",
+      "membership_type": "Founding Member"
+    },
+    {
+      "member_id": "AGPC-101",
+      "slug": "palak-khanna",
+      "folder": "AGPC-101_palak-khanna",
+      "profile_file": "AGPC-101_palak-khanna/profile.json",
+      "metadata_file": "AGPC-101_palak-khanna/metadata.json",
+      "profile_url": "https://coalitionmembers.atlasai.institute/members/palak-khanna/",
+      "membership_type": "Founding Member"
+    },
+    {
+      "member_id": "AGPC-102",
+      "slug": "carla-de-utra-mendes",
+      "folder": "AGPC-102_carla-de-utra-mendes",
+      "profile_file": "AGPC-102_carla-de-utra-mendes/profile.json",
+      "metadata_file": "AGPC-102_carla-de-utra-mendes/metadata.json",
+      "profile_url": "https://coalitionmembers.atlasai.institute/members/carla-de-utra-mendes/",
+      "membership_type": "Founding Member"
+    },
+    {
+      "member_id": "AGPC-103",
+      "slug": "mohamed-laghdaf",
+      "folder": "AGPC-103_mohamed-laghdaf",
+      "profile_file": "AGPC-103_mohamed-laghdaf/profile.json",
+      "metadata_file": "AGPC-103_mohamed-laghdaf/metadata.json",
+      "profile_url": "https://coalitionmembers.atlasai.institute/members/mohamed-laghdaf/",
+      "membership_type": "Founding Member"
+    },
+    {
+      "member_id": "AGPC-104",
+      "slug": "chiew-yi-yung",
+      "folder": "AGPC-104_chiew-yi-yung",
+      "profile_file": "AGPC-104_chiew-yi-yung/profile.json",
+      "metadata_file": "AGPC-104_chiew-yi-yung/metadata.json",
+      "profile_url": "https://coalitionmembers.atlasai.institute/members/chiew-yi-yung/",
+      "membership_type": "Founding Member"
+    },
+    {
+      "member_id": "AGPC-105",
+      "slug": "carol-knox",
+      "folder": "AGPC-105_carol-knox",
+      "profile_file": "AGPC-105_carol-knox/profile.json",
+      "metadata_file": "AGPC-105_carol-knox/metadata.json",
+      "profile_url": "https://coalitionmembers.atlasai.institute/members/carol-knox/",
+      "membership_type": "Founding Member"
+    },
+    {
+      "member_id": "AGPC-106",
+      "slug": "collin-dimakatso-mashile-dcdt-pretoria",
+      "folder": "AGPC-106_collin-dimakatso-mashile-dcdt-pretoria",
+      "profile_file": "AGPC-106_collin-dimakatso-mashile-dcdt-pretoria/profile.json",
+      "metadata_file": "AGPC-106_collin-dimakatso-mashile-dcdt-pretoria/metadata.json",
+      "profile_url": "https://coalitionmembers.atlasai.institute/members/collin-dimakatso-mashile-dcdt-pretoria/",
+      "membership_type": "Founding Member"
+    },
+    {
+      "member_id": "AGPC-107",
+      "slug": "dr-thembi-mashinini",
+      "folder": "AGPC-107_dr-thembi-mashinini",
+      "profile_file": "AGPC-107_dr-thembi-mashinini/profile.json",
+      "metadata_file": "AGPC-107_dr-thembi-mashinini/metadata.json",
+      "profile_url": "https://coalitionmembers.atlasai.institute/members/dr-thembi-mashinini/",
+      "membership_type": "Founding Member"
+    },
+    {
+      "member_id": "AGPC-108",
+      "slug": "lindelani-mnguni",
+      "folder": "AGPC-108_lindelani-mnguni",
+      "profile_file": "AGPC-108_lindelani-mnguni/profile.json",
+      "metadata_file": "AGPC-108_lindelani-mnguni/metadata.json",
+      "profile_url": "https://coalitionmembers.atlasai.institute/members/lindelani-mnguni/",
+      "membership_type": "Founding Member"
+    },
+    {
+      "member_id": "AGPC-109",
+      "slug": "lufuno-t-tshikalange",
+      "folder": "AGPC-109_lufuno-t-tshikalange",
+      "profile_file": "AGPC-109_lufuno-t-tshikalange/profile.json",
+      "metadata_file": "AGPC-109_lufuno-t-tshikalange/metadata.json",
+      "profile_url": "https://coalitionmembers.atlasai.institute/members/lufuno-t-tshikalange/",
+      "membership_type": "Founding Member"
+    },
+    {
+      "member_id": "AGPC-110",
+      "slug": "olga-ustyuzhantseva",
+      "folder": "AGPC-110_olga-ustyuzhantseva",
+      "profile_file": "AGPC-110_olga-ustyuzhantseva/profile.json",
+      "metadata_file": "AGPC-110_olga-ustyuzhantseva/metadata.json",
+      "profile_url": "https://coalitionmembers.atlasai.institute/members/olga-ustyuzhantseva/",
+      "membership_type": "Founding Member"
+    },
+    {
+      "member_id": "AGPC-111",
+      "slug": "sashin-j-singh",
+      "folder": "AGPC-111_sashin-j-singh",
+      "profile_file": "AGPC-111_sashin-j-singh/profile.json",
+      "metadata_file": "AGPC-111_sashin-j-singh/metadata.json",
+      "profile_url": "https://coalitionmembers.atlasai.institute/members/sashin-j-singh/",
+      "membership_type": "Founding Member"
+    },
+    {
+      "member_id": "AGPC-112",
+      "slug": "themba-khoza",
+      "folder": "AGPC-112_themba-khoza",
+      "profile_file": "AGPC-112_themba-khoza/profile.json",
+      "metadata_file": "AGPC-112_themba-khoza/metadata.json",
+      "profile_url": "https://coalitionmembers.atlasai.institute/members/themba-khoza/",
+      "membership_type": "Founding Member"
+    },
+    {
+      "member_id": "AGPC-113",
+      "slug": "ahmed-ibrahim",
+      "folder": "AGPC-113_ahmed-ibrahim",
+      "profile_file": "AGPC-113_ahmed-ibrahim/profile.json",
+      "metadata_file": "AGPC-113_ahmed-ibrahim/metadata.json",
+      "profile_url": "https://coalitionmembers.atlasai.institute/members/ahmed-ibrahim/",
+      "membership_type": "Founding Member"
+    },
+    {
+      "member_id": "AGPC-114",
+      "slug": "roberta-scrofani-null",
+      "folder": "AGPC-114_roberta-scrofani-null",
+      "profile_file": "AGPC-114_roberta-scrofani-null/profile.json",
+      "metadata_file": "AGPC-114_roberta-scrofani-null/metadata.json",
+      "profile_url": "https://coalitionmembers.atlasai.institute/members/roberta-scrofani-null/",
+      "membership_type": "Founding Member"
+    },
+    {
+      "member_id": "AGPC-115",
+      "slug": "thais-adell-deosdat",
+      "folder": "AGPC-115_thais-adell-deosdat",
+      "profile_file": "AGPC-115_thais-adell-deosdat/profile.json",
+      "metadata_file": "AGPC-115_thais-adell-deosdat/metadata.json",
+      "profile_url": "https://coalitionmembers.atlasai.institute/members/thais-adell-deosdat/",
+      "membership_type": "Founding Member"
+    },
+    {
+      "member_id": "AGPC-116",
+      "slug": "ariel-phantitra-phuphaphantakarn",
+      "folder": "AGPC-116_ariel-phantitra-phuphaphantakarn",
+      "profile_file": "AGPC-116_ariel-phantitra-phuphaphantakarn/profile.json",
+      "metadata_file": "AGPC-116_ariel-phantitra-phuphaphantakarn/metadata.json",
+      "profile_url": "https://coalitionmembers.atlasai.institute/members/ariel-phantitra-phuphaphantakarn/",
+      "membership_type": "Founding Member"
+    },
+    {
+      "member_id": "AGPC-117",
+      "slug": "chih-hsuan-lee",
+      "folder": "AGPC-117_chih-hsuan-lee",
+      "profile_file": "AGPC-117_chih-hsuan-lee/profile.json",
+      "metadata_file": "AGPC-117_chih-hsuan-lee/metadata.json",
+      "profile_url": "https://coalitionmembers.atlasai.institute/members/chih-hsuan-lee/",
+      "membership_type": "Founding Member"
+    },
+    {
+      "member_id": "AGPC-118",
+      "slug": "michael-l-bak",
+      "folder": "AGPC-118_michael-l-bak",
+      "profile_file": "AGPC-118_michael-l-bak/profile.json",
+      "metadata_file": "AGPC-118_michael-l-bak/metadata.json",
+      "profile_url": "https://coalitionmembers.atlasai.institute/members/michael-l-bak/",
+      "membership_type": "Founding Member"
+    },
+    {
+      "member_id": "AGPC-119",
+      "slug": "victor-prasad-karunan",
+      "folder": "AGPC-119_victor-prasad-karunan",
+      "profile_file": "AGPC-119_victor-prasad-karunan/profile.json",
+      "metadata_file": "AGPC-119_victor-prasad-karunan/metadata.json",
+      "profile_url": "https://coalitionmembers.atlasai.institute/members/victor-prasad-karunan/",
+      "membership_type": "Founding Member"
+    },
+    {
+      "member_id": "AGPC-120",
+      "slug": "abdulquddus",
+      "folder": "AGPC-120_abdulquddus",
+      "profile_file": "AGPC-120_abdulquddus/profile.json",
+      "metadata_file": "AGPC-120_abdulquddus/metadata.json",
+      "profile_url": "https://coalitionmembers.atlasai.institute/members/abdulquddus/",
+      "membership_type": "Founding Member"
+    },
+    {
+      "member_id": "AGPC-121",
+      "slug": "lorraine-aguti",
+      "folder": "AGPC-121_lorraine-aguti",
+      "profile_file": "AGPC-121_lorraine-aguti/profile.json",
+      "metadata_file": "AGPC-121_lorraine-aguti/metadata.json",
+      "profile_url": "https://coalitionmembers.atlasai.institute/members/lorraine-aguti/",
+      "membership_type": "Founding Member"
+    },
+    {
+      "member_id": "AGPC-122",
+      "slug": "bamidele-aly",
+      "folder": "AGPC-122_bamidele-aly",
+      "profile_file": "AGPC-122_bamidele-aly/profile.json",
+      "metadata_file": "AGPC-122_bamidele-aly/metadata.json",
+      "profile_url": "https://coalitionmembers.atlasai.institute/members/bamidele-aly/",
+      "membership_type": "Founding Member"
+    },
+    {
+      "member_id": "AGPC-123",
+      "slug": "jagdev-bhogal",
+      "folder": "AGPC-123_jagdev-bhogal",
+      "profile_file": "AGPC-123_jagdev-bhogal/profile.json",
+      "metadata_file": "AGPC-123_jagdev-bhogal/metadata.json",
+      "profile_url": "https://coalitionmembers.atlasai.institute/members/jagdev-bhogal/",
+      "membership_type": "Founding Member"
+    },
+    {
+      "member_id": "AGPC-124",
+      "slug": "joanna-pilch",
+      "folder": "AGPC-124_joanna-pilch",
+      "profile_file": "AGPC-124_joanna-pilch/profile.json",
+      "metadata_file": "AGPC-124_joanna-pilch/metadata.json",
+      "profile_url": "https://coalitionmembers.atlasai.institute/members/joanna-pilch/",
+      "membership_type": "Founding Member"
+    },
+    {
+      "member_id": "AGPC-125",
+      "slug": "lu-yan",
+      "folder": "AGPC-125_lu-yan",
+      "profile_file": "AGPC-125_lu-yan/profile.json",
+      "metadata_file": "AGPC-125_lu-yan/metadata.json",
+      "profile_url": "https://coalitionmembers.atlasai.institute/members/lu-yan/",
+      "membership_type": "Founding Member"
+    },
+    {
+      "member_id": "AGPC-126",
+      "slug": "ogechukwu",
+      "folder": "AGPC-126_ogechukwu",
+      "profile_file": "AGPC-126_ogechukwu/profile.json",
+      "metadata_file": "AGPC-126_ogechukwu/metadata.json",
+      "profile_url": "https://coalitionmembers.atlasai.institute/members/ogechukwu/",
+      "membership_type": "Founding Member"
+    },
+    {
+      "member_id": "AGPC-127",
+      "slug": "r-verity-vabolis",
+      "folder": "AGPC-127_r-verity-vabolis",
+      "profile_file": "AGPC-127_r-verity-vabolis/profile.json",
+      "metadata_file": "AGPC-127_r-verity-vabolis/metadata.json",
+      "profile_url": "https://coalitionmembers.atlasai.institute/members/r-verity-vabolis/",
+      "membership_type": "Founding Member"
+    },
+    {
+      "member_id": "AGPC-128",
+      "slug": "stephen-hall",
+      "folder": "AGPC-128_stephen-hall",
+      "profile_file": "AGPC-128_stephen-hall/profile.json",
+      "metadata_file": "AGPC-128_stephen-hall/metadata.json",
+      "profile_url": "https://coalitionmembers.atlasai.institute/members/stephen-hall/",
+      "membership_type": "Founding Member"
+    },
+    {
+      "member_id": "AGPC-129",
+      "slug": "abel-pena-fernandez",
+      "folder": "AGPC-129_abel-pena-fernandez",
+      "profile_file": "AGPC-129_abel-pena-fernandez/profile.json",
+      "metadata_file": "AGPC-129_abel-pena-fernandez/metadata.json",
+      "profile_url": "https://coalitionmembers.atlasai.institute/members/abel-pena-fernandez/",
+      "membership_type": "Founding Member"
+    },
+    {
+      "member_id": "AGPC-130",
+      "slug": "dr-tiffany-simmons",
+      "folder": "AGPC-130_dr-tiffany-simmons",
+      "profile_file": "AGPC-130_dr-tiffany-simmons/profile.json",
+      "metadata_file": "AGPC-130_dr-tiffany-simmons/metadata.json",
+      "profile_url": "https://coalitionmembers.atlasai.institute/members/dr-tiffany-simmons/",
+      "membership_type": "Founding Member"
+    },
+    {
+      "member_id": "AGPC-131",
+      "slug": "dr-wafa-al-daily",
+      "folder": "AGPC-131_dr-wafa-al-daily",
+      "profile_file": "AGPC-131_dr-wafa-al-daily/profile.json",
+      "metadata_file": "AGPC-131_dr-wafa-al-daily/metadata.json",
+      "profile_url": "https://coalitionmembers.atlasai.institute/members/dr-wafa-al-daily/",
+      "membership_type": "Founding Member"
+    },
+    {
+      "member_id": "AGPC-132",
+      "slug": "evie-wick",
+      "folder": "AGPC-132_evie-wick",
+      "profile_file": "AGPC-132_evie-wick/profile.json",
+      "metadata_file": "AGPC-132_evie-wick/metadata.json",
+      "profile_url": "https://coalitionmembers.atlasai.institute/members/evie-wick/",
+      "membership_type": "Founding Member"
+    },
+    {
+      "member_id": "AGPC-133",
+      "slug": "jose-f-otero",
+      "folder": "AGPC-133_jose-f-otero",
+      "profile_file": "AGPC-133_jose-f-otero/profile.json",
+      "metadata_file": "AGPC-133_jose-f-otero/metadata.json",
+      "profile_url": "https://coalitionmembers.atlasai.institute/members/jose-f-otero/",
+      "membership_type": "Founding Member"
+    },
+    {
+      "member_id": "AGPC-134",
+      "slug": "joshua-williams",
+      "folder": "AGPC-134_joshua-williams",
+      "profile_file": "AGPC-134_joshua-williams/profile.json",
+      "metadata_file": "AGPC-134_joshua-williams/metadata.json",
+      "profile_url": "https://coalitionmembers.atlasai.institute/members/joshua-williams/",
+      "membership_type": "Founding Member"
+    },
+    {
+      "member_id": "AGPC-135",
+      "slug": "michael-borum",
+      "folder": "AGPC-135_michael-borum",
+      "profile_file": "AGPC-135_michael-borum/profile.json",
+      "metadata_file": "AGPC-135_michael-borum/metadata.json",
+      "profile_url": "https://coalitionmembers.atlasai.institute/members/michael-borum/",
+      "membership_type": "Founding Member"
+    },
+    {
+      "member_id": "AGPC-136",
+      "slug": "rosita-scerbo",
+      "folder": "AGPC-136_rosita-scerbo",
+      "profile_file": "AGPC-136_rosita-scerbo/profile.json",
+      "metadata_file": "AGPC-136_rosita-scerbo/metadata.json",
+      "profile_url": "https://coalitionmembers.atlasai.institute/members/rosita-scerbo/",
+      "membership_type": "Founding Member"
+    },
+    {
+      "member_id": "AGPC-137",
+      "slug": "santoro-michael",
+      "folder": "AGPC-137_santoro-michael",
+      "profile_file": "AGPC-137_santoro-michael/profile.json",
+      "metadata_file": "AGPC-137_santoro-michael/metadata.json",
+      "profile_url": "https://coalitionmembers.atlasai.institute/members/santoro-michael/",
+      "membership_type": "Founding Member"
+    },
+    {
+      "member_id": "AGPC-138",
+      "slug": "siddartha",
+      "folder": "AGPC-138_siddartha",
+      "profile_file": "AGPC-138_siddartha/profile.json",
+      "metadata_file": "AGPC-138_siddartha/metadata.json",
+      "profile_url": "https://coalitionmembers.atlasai.institute/members/siddartha/",
+      "membership_type": "Founding Member"
+    },
+    {
+      "member_id": "AGPC-139",
+      "slug": "venable",
+      "folder": "AGPC-139_venable",
+      "profile_file": "AGPC-139_venable/profile.json",
+      "metadata_file": "AGPC-139_venable/metadata.json",
+      "profile_url": "https://coalitionmembers.atlasai.institute/members/venable/",
+      "membership_type": "Founding Member"
+    },
+    {
+      "member_id": "AGPC-140",
+      "slug": "farirai-mageza",
+      "folder": "AGPC-140_farirai-mageza",
+      "profile_file": "AGPC-140_farirai-mageza/profile.json",
+      "metadata_file": "AGPC-140_farirai-mageza/metadata.json",
+      "profile_url": "https://coalitionmembers.atlasai.institute/members/farirai-mageza/",
+      "membership_type": "Founding Member"
+    },
+    {
+      "member_id": "AGPC-141",
+      "slug": "perseverance-javangwe",
+      "folder": "AGPC-141_perseverance-javangwe",
+      "profile_file": "AGPC-141_perseverance-javangwe/profile.json",
+      "metadata_file": "AGPC-141_perseverance-javangwe/metadata.json",
+      "profile_url": "https://coalitionmembers.atlasai.institute/members/perseverance-javangwe/",
+      "membership_type": "Founding Member"
+    },
+    {
+      "member_id": "AGPC-142",
+      "slug": "tinashe-malvern-madamombe",
+      "folder": "AGPC-142_tinashe-malvern-madamombe",
+      "profile_file": "AGPC-142_tinashe-malvern-madamombe/profile.json",
+      "metadata_file": "AGPC-142_tinashe-malvern-madamombe/metadata.json",
+      "profile_url": "https://coalitionmembers.atlasai.institute/members/tinashe-malvern-madamombe/",
+      "membership_type": "Founding Member"
+    },
+    {
+      "member_id": "AGPC-143",
+      "slug": "jannatul-nayem",
+      "folder": "AGPC-143_jannatul-nayem",
+      "profile_file": "AGPC-143_jannatul-nayem/profile.json",
+      "metadata_file": "AGPC-143_jannatul-nayem/metadata.json",
+      "profile_url": "https://coalitionmembers.atlasai.institute/members/jannatul-nayem/",
+      "membership_type": "Member"
+    },
+    {
+      "member_id": "AGPC-144",
+      "slug": "md-ariful-haque-akash",
+      "folder": "AGPC-144_md-ariful-haque-akash",
+      "profile_file": "AGPC-144_md-ariful-haque-akash/profile.json",
+      "metadata_file": "AGPC-144_md-ariful-haque-akash/metadata.json",
+      "profile_url": "https://coalitionmembers.atlasai.institute/members/md-ariful-haque-akash/",
+      "membership_type": "Member"
+    },
+    {
+      "member_id": "AGPC-145",
+      "slug": "sohan-bapary",
+      "folder": "AGPC-145_sohan-bapary",
+      "profile_file": "AGPC-145_sohan-bapary/profile.json",
+      "metadata_file": "AGPC-145_sohan-bapary/metadata.json",
+      "profile_url": "https://coalitionmembers.atlasai.institute/members/sohan-bapary/",
+      "membership_type": "Member"
+    },
+    {
+      "member_id": "AGPC-146",
+      "slug": "tustee-mazumdar",
+      "folder": "AGPC-146_tustee-mazumdar",
+      "profile_file": "AGPC-146_tustee-mazumdar/profile.json",
+      "metadata_file": "AGPC-146_tustee-mazumdar/metadata.json",
+      "profile_url": "https://coalitionmembers.atlasai.institute/members/tustee-mazumdar/",
+      "membership_type": "Member"
+    },
+    {
+      "member_id": "AGPC-147",
+      "slug": "oscar-cariceo",
+      "folder": "AGPC-147_oscar-cariceo",
+      "profile_file": "AGPC-147_oscar-cariceo/profile.json",
+      "metadata_file": "AGPC-147_oscar-cariceo/metadata.json",
+      "profile_url": "https://coalitionmembers.atlasai.institute/members/oscar-cariceo/",
+      "membership_type": "Member"
+    },
+    {
+      "member_id": "AGPC-148",
+      "slug": "harsh-saudarshan",
+      "folder": "AGPC-148_harsh-saudarshan",
+      "profile_file": "AGPC-148_harsh-saudarshan/profile.json",
+      "metadata_file": "AGPC-148_harsh-saudarshan/metadata.json",
+      "profile_url": "https://coalitionmembers.atlasai.institute/members/harsh-saudarshan/",
+      "membership_type": "Member"
+    },
+    {
+      "member_id": "AGPC-149",
+      "slug": "poornima-s",
+      "folder": "AGPC-149_poornima-s",
+      "profile_file": "AGPC-149_poornima-s/profile.json",
+      "metadata_file": "AGPC-149_poornima-s/metadata.json",
+      "profile_url": "https://coalitionmembers.atlasai.institute/members/poornima-s/",
+      "membership_type": "Member"
+    },
+    {
+      "member_id": "AGPC-150",
+      "slug": "raymond-bondin",
+      "folder": "AGPC-150_raymond-bondin",
+      "profile_file": "AGPC-150_raymond-bondin/profile.json",
+      "metadata_file": "AGPC-150_raymond-bondin/metadata.json",
+      "profile_url": "https://coalitionmembers.atlasai.institute/members/raymond-bondin/",
+      "membership_type": "Member"
+    },
+    {
+      "member_id": "AGPC-151",
+      "slug": "ilias-elmouki",
+      "folder": "AGPC-151_ilias-elmouki",
+      "profile_file": "AGPC-151_ilias-elmouki/profile.json",
+      "metadata_file": "AGPC-151_ilias-elmouki/metadata.json",
+      "profile_url": "https://coalitionmembers.atlasai.institute/members/ilias-elmouki/",
+      "membership_type": "Member"
+    },
+    {
+      "member_id": "AGPC-152",
+      "slug": "oluwaseyi-adewale-olawuyi",
+      "folder": "AGPC-152_oluwaseyi-adewale-olawuyi",
+      "profile_file": "AGPC-152_oluwaseyi-adewale-olawuyi/profile.json",
+      "metadata_file": "AGPC-152_oluwaseyi-adewale-olawuyi/metadata.json",
+      "profile_url": "https://coalitionmembers.atlasai.institute/members/oluwaseyi-adewale-olawuyi/",
+      "membership_type": "Member"
+    },
+    {
+      "member_id": "AGPC-153",
+      "slug": "sharon-juwah",
+      "folder": "AGPC-153_sharon-juwah",
+      "profile_file": "AGPC-153_sharon-juwah/profile.json",
+      "metadata_file": "AGPC-153_sharon-juwah/metadata.json",
+      "profile_url": "https://coalitionmembers.atlasai.institute/members/sharon-juwah/",
+      "membership_type": "Member"
+    },
+    {
+      "member_id": "AGPC-154",
+      "slug": "victor-moinina",
+      "folder": "AGPC-154_victor-moinina",
+      "profile_file": "AGPC-154_victor-moinina/profile.json",
+      "metadata_file": "AGPC-154_victor-moinina/metadata.json",
+      "profile_url": "https://coalitionmembers.atlasai.institute/members/victor-moinina/",
+      "membership_type": "Member"
+    },
+    {
+      "member_id": "AGPC-155",
+      "slug": "leruela-mashabela",
+      "folder": "AGPC-155_leruela-mashabela",
+      "profile_file": "AGPC-155_leruela-mashabela/profile.json",
+      "metadata_file": "AGPC-155_leruela-mashabela/metadata.json",
+      "profile_url": "https://coalitionmembers.atlasai.institute/members/leruela-mashabela/",
+      "membership_type": "Member"
+    },
+    {
+      "member_id": "AGPC-156",
+      "slug": "fredrick-ishengoma",
+      "folder": "AGPC-156_fredrick-ishengoma",
+      "profile_file": "AGPC-156_fredrick-ishengoma/profile.json",
+      "metadata_file": "AGPC-156_fredrick-ishengoma/metadata.json",
+      "profile_url": "https://coalitionmembers.atlasai.institute/members/fredrick-ishengoma/",
+      "membership_type": "Member"
+    },
+    {
+      "member_id": "AGPC-157",
+      "slug": "yinghui-huang",
+      "folder": "AGPC-157_yinghui-huang",
+      "profile_file": "AGPC-157_yinghui-huang/profile.json",
+      "metadata_file": "AGPC-157_yinghui-huang/metadata.json",
+      "profile_url": "https://coalitionmembers.atlasai.institute/members/yinghui-huang/",
+      "membership_type": "Member"
+    },
+    {
+      "member_id": "AGPC-158",
+      "slug": "aaqib-alvi",
+      "folder": "AGPC-158_aaqib-alvi",
+      "profile_file": "AGPC-158_aaqib-alvi/profile.json",
+      "metadata_file": "AGPC-158_aaqib-alvi/metadata.json",
+      "profile_url": "https://coalitionmembers.atlasai.institute/members/aaqib-alvi/",
+      "membership_type": "Member"
+    },
+    {
+      "member_id": "AGPC-159",
+      "slug": "dr-ife-damon",
+      "folder": "AGPC-159_dr-ife-damon",
+      "profile_file": "AGPC-159_dr-ife-damon/profile.json",
+      "metadata_file": "AGPC-159_dr-ife-damon/metadata.json",
+      "profile_url": "https://coalitionmembers.atlasai.institute/members/dr-ife-damon/",
+      "membership_type": "Member"
+    },
+    {
+      "member_id": "AGPC-160",
+      "slug": "gina-grant",
+      "folder": "AGPC-160_gina-grant",
+      "profile_file": "AGPC-160_gina-grant/profile.json",
+      "metadata_file": "AGPC-160_gina-grant/metadata.json",
+      "profile_url": "https://coalitionmembers.atlasai.institute/members/gina-grant/",
+      "membership_type": "Member"
+    },
+    {
+      "member_id": "AGPC-161",
+      "slug": "marty-jensen",
+      "folder": "AGPC-161_marty-jensen",
+      "profile_file": "AGPC-161_marty-jensen/profile.json",
+      "metadata_file": "AGPC-161_marty-jensen/metadata.json",
+      "profile_url": "https://coalitionmembers.atlasai.institute/members/marty-jensen/",
+      "membership_type": "Member"
+    },
+    {
+      "member_id": "AGPC-162",
+      "slug": "wafa-al-daily",
+      "folder": "AGPC-162_wafa-al-daily",
+      "profile_file": "AGPC-162_wafa-al-daily/profile.json",
+      "metadata_file": "AGPC-162_wafa-al-daily/metadata.json",
+      "profile_url": "https://coalitionmembers.atlasai.institute/members/wafa-al-daily/",
+      "membership_type": "Member"
+    },
+    {
+      "member_id": "AGPC-163",
+      "slug": "mariam",
+      "folder": "AGPC-163_mariam",
+      "profile_file": "AGPC-163_mariam/profile.json",
+      "metadata_file": "AGPC-163_mariam/metadata.json",
+      "profile_url": "https://coalitionmembers.atlasai.institute/members/mariam/",
+      "membership_type": "Member"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "member_id": "AGPC-038",
+  "slug": "gabor-soos-phd",
+  "full_name": "Gabor Soos, Phd",
+  "designation": null,
+  "membership_type": "Founding Member",
+  "institution": null,
+  "qualification": null,
+  "country": null,
+  "biography": "Gábor Soós, PhD, is an AI Innovation Strategic Advisor and former Secretary-General of the Hungarian National Commission for UNESCO. He works at the intersection of AI, philosophy, education, culture, sustainability and international cooperation, drawing on more than two decades across UNESCO, public policy, heritage governance, community participation and international programmes.\n\nHis recent work asks how societies, communities and places can take part in shaping the intelligence we build. Three questions guide it: how AI can become place-shaped and culture-shaped; how education can move people from access to agency; and how AI can support sustainability and resilience across the source-to-sea continuum while keeping responsibility visible, traceable, local and reversible. These questions inform his work on World-Shaped, Place-Shaped and Culture-Shaped AI, cognitive sovereignty, analogue-first learning, semantic world modelling, Chrono-TOLMA and the Bartók 4.0 learning cycle.\n\nHe is Initiator and Lead Coordinator of Source2Sea: Bartók 3.0 Connectivity (a UN Ocean Decade project), Visiting Research Fellow at UNU-CRIS, and Initiator and Steward of the World-Shaped AI Coalition (WOSAIC). In these roles he develops and convenes cross-sector initiatives with universities, UNESCO-related networks, public institutions, local communities, educators and technology partners, with the aim of making relations more visible, uncertainty more legible, provenance more traceable and correction always possible. He is a researcher, author, educator, international speaker and programme initiator.",
+  "professional_expertise": [
+    "Researcher"
+  ],
+  "photo": "/assets/member-photos/AGPC-038.png",
+  "photo_alt": "Gábor Soós, PhD — Founding Committee",
+  "social_links": {
+    "linkedin": "https://www.linkedin.com/in/soos-gabor-phd/"
+  },
+  "membership_status": "source-audited",
+  "verification_status": "source-audited",
+  "display_order": 38,
+  "created_at": "2026-11-15",
+  "updated_at": "2026-11-15",
+  "profile_url": "https://coalitionmembers.atlasai.institute/members/gabor-soos-phd/"
+}

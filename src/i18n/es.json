@@ -1,0 +1,5 @@
+{
+  "nav": { "about": "Acerca de", "membership": "Membresía", "research": "Investigación", "members": "Miembros", "news": "Noticias y eventos", "contact": "Contacto" },
+  "actions": { "becomeMember": "Hazte miembro", "apply": "Solicitar membresía", "criteria": "Ver criterios de membresía", "explore": "Explorar la coalición" },
+  "language": "Idioma"
+}

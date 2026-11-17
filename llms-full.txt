@@ -1,0 +1,54 @@
+# Atlas Global South AI Policy Coalition — full reference
+
+## Identity
+
+The Atlas Global South AI Policy Coalition, also called the Global South AI Policy Coalition, is convened by Atlas AI Institute. It brings together researchers, academics, legal experts, policy professionals and institutional partners to strengthen international dialogue on AI governance. The Coalition’s public contact email is coalition.atlasai@gmail.com.
+
+Official website: https://coalition.atlasai.institute/
+
+## Mission and vision
+
+The Coalition exists to strengthen international cooperation on AI governance by connecting expertise, advancing policy research, supporting institutional capacity and promoting inclusive participation in global AI policy development. Its vision is a world where artificial intelligence is developed, governed and deployed in ways that respect human rights, strengthen public institutions, promote equitable opportunities and reflect diverse social realities.
+
+## Public facts
+
+The public source reports 55 member countries, 170 researchers and experts, 5 global regions, 6 core research tracks and 163 audited registry records. The public country dataset currently contains 0 verified country assignments. The first convening date is not published in the public source. The site’s content date is 2026-11-16.
+
+The regions listed in the public content are Asia-Pacific, Europe, Africa, The Americas and MENA. The public member registry contains source-audited profiles and does not infer a country for an individual profile.
+
+## Programmes
+
+The Coalition’s public content describes six research tracks and three initiatives. Their exact names and descriptions are maintained in the public Research and Initiatives pages:
+
+- Research: https://coalition.atlasai.institute/policy-research/
+- Initiatives: https://coalition.atlasai.institute/initiatives/
+
+## Membership and engagement
+
+The Coalition welcomes qualified individuals and institutional representatives interested in responsible AI governance and international policy cooperation. Applicants should demonstrate relevant professional, academic or practical experience in AI, law, policy, technology, research or related fields; interest in inclusive AI governance; commitment to the Code of Conduct; and accurate application information. Applications are reviewed manually by the Coalition team.
+
+Membership connects people with peers and provides a place to contribute research, perspective and experience to international AI governance conversations. Contributions can be submitted for editorial review, and approved contributions are prepared for a global readership.
+
+- Membership: https://coalition.atlasai.institute/membership/
+- Eligibility: https://coalition.atlasai.institute/membership/eligibility/
+- Apply: https://coalition.atlasai.institute/membership/apply/
+- Contributions: https://coalition.atlasai.institute/contribute/submit/
+
+## Leadership
+
+The public Founding Committee roster and responsibility areas are maintained on the Leadership page. The Coalition is convened by Atlas AI Institute, which provides the institutional host and secretariat support described in the public organizational structure.
+
+- Leadership: https://coalition.atlasai.institute/leadership/
+- Founding Committee: https://coalition.atlasai.institute/leadership/founding-committee/
+
+## Publications and citation
+
+The publication programme will publish verified Coalition research, policy analysis and frameworks as they are approved. Cite the site as: Atlas Global South AI Policy Coalition. “Atlas Global South AI Policy Coalition.” https://coalition.atlasai.institute/
+
+- Publications: https://coalition.atlasai.institute/publications/
+- About: https://coalition.atlasai.institute/about/
+- News and events: https://coalition.atlasai.institute/news-events/
+
+## Social profiles
+
+The Coalition’s official sameAs URLs are https://www.linkedin.com/showcase/atlas-global-south-ai-policy-coalition/, https://www.linkedin.com/company/atlas-ai-institute/, and https://www.facebook.com/share/1DWmocBb8U/.

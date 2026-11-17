@@ -1,0 +1,22 @@
+{
+  "member_id": "AGPC-110",
+  "full_name": "Olga Ustyuzhantseva",
+  "slug": "olga-ustyuzhantseva",
+  "membership_type": "Founding Member",
+  "profile_url": "https://coalitionmembers.atlasai.institute/members/olga-ustyuzhantseva/",
+  "data_completeness_status": "partial",
+  "missing_fields": [
+    "designation",
+    "institution",
+    "qualification",
+    "country",
+    "photo",
+    "photo_alt"
+  ],
+  "source_record_reference": {
+    "source_file": "Atlas_Global_South_AI_Coalition_Profile_Structure(1).xlsx",
+    "array_name": "members",
+    "zero_based_index": 109,
+    "display_order": 110
+  }
+}

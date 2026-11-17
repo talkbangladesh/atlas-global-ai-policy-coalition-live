@@ -1,0 +1,25 @@
+{
+  "member_id": "AGPC-085",
+  "slug": "hassan-raji",
+  "full_name": "Hassan Raji",
+  "designation": null,
+  "membership_type": "Founding Member",
+  "institution": null,
+  "qualification": null,
+  "country": null,
+  "biography": "I am Hassan Raji, an associate Product manager (AI focus), with background in Philosophy, I am presently look up masters in Data and information science. I am curious I love to seek clarity.",
+  "professional_expertise": [
+    "Academic"
+  ],
+  "photo": null,
+  "photo_alt": null,
+  "social_links": {
+    "linkedin": "https://www.linkedin.com/in/hassan-raji-7714173a4?utm_source=share_via&utm_content=profile&utm_medium=member_android"
+  },
+  "membership_status": "source-audited",
+  "verification_status": "source-audited",
+  "display_order": 85,
+  "created_at": "2026-11-15",
+  "updated_at": "2026-11-15",
+  "profile_url": "https://coalitionmembers.atlasai.institute/members/hassan-raji/"
+}

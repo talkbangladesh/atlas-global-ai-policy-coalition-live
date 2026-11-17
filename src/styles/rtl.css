@@ -1,0 +1,5 @@
+html[dir="rtl"] body { direction: rtl; }
+html[dir="rtl"] .brand, html[dir="rtl"] .hero-actions, html[dir="rtl"] .hero-meta, html[dir="rtl"] .footer-brand-lockup { flex-direction: row-reverse; }
+html[dir="rtl"] .editorial-note, html[dir="rtl"] .country-map-copy, html[dir="rtl"] .review-steps, html[dir="rtl"] .editorial-aside { padding-right: 28px; padding-left: 0; border-right: 3px solid var(--teal); border-left: 0; }
+html[dir="rtl"] .review-steps { border-right-width: 1px; }
+html[dir="rtl"] .text-link:hover { transform: translateX(-2px); }

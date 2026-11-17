@@ -1,0 +1,25 @@
+{
+  "member_id": "AGPC-130",
+  "slug": "dr-tiffany-simmons",
+  "full_name": "Dr. Tiffany Simmons",
+  "designation": null,
+  "membership_type": "Founding Member",
+  "institution": null,
+  "qualification": null,
+  "country": null,
+  "biography": "Tiffany Simmons, Ed.D., J.D., is an AI Governance, Policy, and Enterprise Transformation Executive who bridges legal, policy, and organizational design to drive complex systems change. She leverages her legal and educational background to align people, processes, and technology across the public sector, higher education, and nonprofit environments.  \nCurrently, she serves as an ASCEND AI Subject Matter Expert at Howard University, where she helps shape responsible AI curriculum and literacy modules for a $4 million, multi-year initiative. Additionally, she is the Founder and Principal of Mosaic Learning Collective, LLC, an advisory firm focused on helping mission-driven enterprises turn complex organizational challenges into executable strategies.  \nNotable impacts from her career include:\nBuilding a workforce and reentry department from the ground up for the DC Department of Corrections, achieving a 100% non-recidivism rate among program participants.  \nManaging a portfolio exceeding $6 million and deploying $4 million in new funding while securing consecutive years of recurring municipal appropriations.  \nProviding executive advisory leadership across 32 United States justice-sector programs as a Principal Advisor for CNA Corporation.  \nDelivering over 17 years of instruction in criminal justice, law, and public policy as a lecturer at both Howard University and American University.  \nDr. Simmons earned her Doctor of Education in Leadership and Policy from American University, a Juris Doctorate from Texas Southern University, and a Bachelor of Arts in Political Science from Johnson C. Smith University.",
+  "professional_expertise": [
+    "Industry"
+  ],
+  "photo": null,
+  "photo_alt": null,
+  "social_links": {
+    "linkedin": "https://www.linkedin.com/in/tiffany-simmons-ed-d-j-d/"
+  },
+  "membership_status": "source-audited",
+  "verification_status": "source-audited",
+  "display_order": 130,
+  "created_at": "2026-11-15",
+  "updated_at": "2026-11-15",
+  "profile_url": "https://coalitionmembers.atlasai.institute/members/dr-tiffany-simmons/"
+}

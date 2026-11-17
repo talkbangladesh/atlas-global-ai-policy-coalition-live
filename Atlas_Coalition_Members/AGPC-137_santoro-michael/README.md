@@ -1,0 +1,16 @@
+# Santoro Michael
+
+- **Member ID:** AGPC-137
+- **Membership:** Founding Member
+- **Expertise:** Not specified
+- **LinkedIn:** https://www.linkedin.com/in/masantoro/
+
+## Source summary
+
+Michael A. Santoro is Professor of Management and Entrepreneurship at Santa Clara University's Leavey School of Business, where his research addresses the human rights implications of artificial intelligence. With Brewer D. Stone, he is the author of "Artificial Intelligence, Human Rights, and the Future of Work: Global Governance and International Organizations in the Age of AI" (Journal of Human Rights, 2026), which examines comparative AI governance across the European Union, the United States, China, and the Global South and proposes a rights-based architecture binding AI deployment to worker voice, enforceable human rights due diligence, and universal social-protection floors. He and Stone are expanding the article into a book, AI and the Global Workforce: A Human Rights Architecture for the Future of Work. He conceived and co-edits a special issue on artificial intelligence for the Business and Human Rights Journal, working with authors across the Global South, and is also editing a special issue on AI and human rights for the Journal of Human Rights.
+
+His engagement with developing economies spans three decades: a Fulbright Fellowship at the University of Hong Kong, visiting appointments in Shanghai and Beijing, testimony before the U.S. Senate Committee on Finance on the human rights implications of China's WTO accession, and service as ethics advisor to the Global Business Coalition on HIV/AIDS, Tuberculosis and Malaria, including a multi-stakeholder African malaria prevention initiative and corporate governance work with A to Z Textile Mills in Arusha, Tanzania. He co-founded the Business and Human Rights Journal (Cambridge University Press), where he served as founding co-editor-in-chief, and the Global Business and Human Rights Scholars Association, where he was first president. His books include Profits and Principles: Global Capitalism and Human Rights in China (Cornell, 1999) and China 2020 (Cornell, 2009). He holds a Ph.D. in public policy from Harvard University, a J.D. from New York University, and an A.B. from Oberlin College.
+
+## Missing information
+
+designation, institution, qualification, country, photo, photo_alt. Values are intentionally not invented.

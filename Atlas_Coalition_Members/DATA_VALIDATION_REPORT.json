@@ -1,0 +1,13 @@
+{
+  "source_file": "/home/ubuntu/upload/atlas_global_south_ai_policy_coalition_all_163_members.json",
+  "records_detected": 163,
+  "member_folders_created": 163,
+  "successful_profile_files": 163,
+  "failed_records": [],
+  "duplicate_member_ids": [],
+  "duplicate_slugs": [],
+  "all_profiles_valid_json": true,
+  "all_folders_have_required_files": true,
+  "source_records_match_profiles": true,
+  "validation_status": "PASSED"
+}

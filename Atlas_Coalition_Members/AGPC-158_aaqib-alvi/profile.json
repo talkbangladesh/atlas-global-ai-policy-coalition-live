@@ -1,0 +1,25 @@
+{
+  "member_id": "AGPC-158",
+  "slug": "aaqib-alvi",
+  "full_name": "Aaqib Alvi",
+  "designation": null,
+  "membership_type": "Member",
+  "institution": null,
+  "qualification": null,
+  "country": null,
+  "biography": null,
+  "professional_expertise": [
+    "Industry"
+  ],
+  "photo": null,
+  "photo_alt": null,
+  "social_links": {
+    "linkedin": "https://www.linkedin.com/in/aqb589/"
+  },
+  "membership_status": "source-audited",
+  "verification_status": "source-audited",
+  "display_order": 158,
+  "created_at": "2026-11-15",
+  "updated_at": "2026-11-15",
+  "profile_url": "https://coalitionmembers.atlasai.institute/members/aaqib-alvi/"
+}

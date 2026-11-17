@@ -1,0 +1,28 @@
+{
+  "siteName": "Atlas Global South AI Policy Coalition",
+  "shortName": "Global South AI Policy Coalition",
+  "parentOrg": "Atlas AI Institute",
+  "primaryDomain": "https://coalition.atlasai.institute",
+  "sameAs": [
+    "https://www.linkedin.com/showcase/atlas-global-south-ai-policy-coalition/",
+    "https://www.linkedin.com/company/atlas-ai-institute/",
+    "https://www.facebook.com/share/1DWmocBb8U/"
+  ],
+  "locales": [
+    "en",
+    "es",
+    "fr",
+    "ar"
+  ],
+  "defaultLocale": "en",
+  "contactEmail": "coalition.atlasai@gmail.com",
+  "verification": {
+    "googleSearchConsole": "",
+    "bingWebmaster": ""
+  },
+  "domainVerifiedLive": false,
+  "defaultShareImage": "/assets/atlas-global-south-share.png",
+  "indexNowKey": "atlas-global-south-ai-policy-coalition",
+  "contentLastUpdated": "2026-11-16",
+  "deployNote": "Before launch, confirm DNS, SSL and hosting for coalition.atlasai.institute and the configured 301 redirects."
+}

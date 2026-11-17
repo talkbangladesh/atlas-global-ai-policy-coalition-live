@@ -1,0 +1,22 @@
+{
+  "member_id": "AGPC-044",
+  "full_name": "Ishika Rajveer",
+  "slug": "ishika-rajveer",
+  "membership_type": "Founding Member",
+  "profile_url": "https://coalitionmembers.atlasai.institute/members/ishika-rajveer/",
+  "data_completeness_status": "partial",
+  "missing_fields": [
+    "designation",
+    "institution",
+    "qualification",
+    "country",
+    "photo",
+    "photo_alt"
+  ],
+  "source_record_reference": {
+    "source_file": "Atlas_Global_South_AI_Coalition_Profile_Structure(1).xlsx",
+    "array_name": "members",
+    "zero_based_index": 43,
+    "display_order": 44
+  }
+}

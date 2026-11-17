@@ -1,0 +1,25 @@
+{
+  "member_id": "AGPC-086",
+  "slug": "malcolm-durosaye",
+  "full_name": "Malcolm Durosaye",
+  "designation": null,
+  "membership_type": "Founding Member",
+  "institution": null,
+  "qualification": null,
+  "country": null,
+  "biography": "Malcolm Durosaye is an AI governance and technology strategy executive advancing responsible AI and digital transformation across Africa and the Global South. He is an AI Research Consultant at Dev-Afrique and Co-Founder of the Sandbox Hub at Net and Strategy Solution (https://sandbox.netandstrategy.com), where he leads initiatives at the intersection of technology, policy, and institutional capacity.\n\nHis work focuses on helping organizations navigate the strategic opportunities and risks of AI, from model evaluation and localization to technology risk management and responsible deployment. Malcolm is committed to strengthening African capacity to shape AI policy, governance, and standards, ensuring that Global South priorities are reflected in the technologies and institutions shaping the future.",
+  "professional_expertise": [
+    "Industry"
+  ],
+  "photo": null,
+  "photo_alt": null,
+  "social_links": {
+    "linkedin": "https://www.linkedin.com/in/malcolmdurosaye/"
+  },
+  "membership_status": "source-audited",
+  "verification_status": "source-audited",
+  "display_order": 86,
+  "created_at": "2026-11-15",
+  "updated_at": "2026-11-15",
+  "profile_url": "https://coalitionmembers.atlasai.institute/members/malcolm-durosaye/"
+}

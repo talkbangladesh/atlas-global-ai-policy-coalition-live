@@ -1,0 +1,9 @@
+# Local Web3Forms runtime key; provide separately in production deployment.
+/web3forms-config.js
+
+# Generated static build output and local dependencies.
+/dist/
+/node_modules/
+
+__pycache__/
+.DS_Store

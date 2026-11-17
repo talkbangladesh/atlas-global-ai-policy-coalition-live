@@ -1,0 +1,25 @@
+{
+  "member_id": "AGPC-122",
+  "slug": "bamidele-aly",
+  "full_name": "Bamidele Aly",
+  "designation": null,
+  "membership_type": "Founding Member",
+  "institution": null,
+  "qualification": null,
+  "country": null,
+  "biography": "Bamidele Aly is a financial services professional, AI practitioner and researcher with nearly two decades of experience spanning financial risk, stress testing, financial market infrastructures, data analytics and innovation. She has led and contributed to AI adoption and responsible innovation initiatives within financial services, including AI use-case development, governance, knowledge sharing and capability building.\n\nAlongside her professional career, Bamidélé is an economic and monetary historian with a strong interest in the intersection of technology, finance and economic development. Her recent academic work has explored the application of machine learning and geospatial data to climate-resilient food-price forecasting in Nigeria. She regularly contributes to discussions on AI, financial innovation and responsible technology through research, conferences and industry forums.\n\nHer current interests focus on responsible AI governance in financial services, particularly how governance frameworks can support innovation, financial inclusion and sustainable economic development across Nigeria and other emerging markets.",
+  "professional_expertise": [
+    "Academic"
+  ],
+  "photo": null,
+  "photo_alt": null,
+  "social_links": {
+    "linkedin": "https://www.linkedin.com/in/bamidelealy/"
+  },
+  "membership_status": "source-audited",
+  "verification_status": "source-audited",
+  "display_order": 122,
+  "created_at": "2026-11-15",
+  "updated_at": "2026-11-15",
+  "profile_url": "https://coalitionmembers.atlasai.institute/members/bamidele-aly/"
+}

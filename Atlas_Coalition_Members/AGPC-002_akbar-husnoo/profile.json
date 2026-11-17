@@ -1,0 +1,25 @@
+{
+  "member_id": "AGPC-002",
+  "slug": "akbar-husnoo",
+  "full_name": "Akbar Husnoo",
+  "designation": null,
+  "membership_type": "Founding Member",
+  "institution": null,
+  "qualification": null,
+  "country": null,
+  "biography": "Dr Akbar Husnoo is a cybersecurity and artificial intelligence researcher, educator, and technology professional with expertise spanning AI, data science, cyber resilience, and responsible technology. He holds a PhD in Cybersecurity from Deakin University, where his research focused on AI-driven intrusion detection and resilient critical infrastructure. His experience extends across academia, local government, and industry, with a strong focus on translating emerging technologies into practical, responsible outcomes.",
+  "professional_expertise": [
+    "Academic"
+  ],
+  "photo": null,
+  "photo_alt": null,
+  "social_links": {
+    "linkedin": "https://www.linkedin.com/in/akbarhusnoo/"
+  },
+  "membership_status": "source-audited",
+  "verification_status": "source-audited",
+  "display_order": 2,
+  "created_at": "2026-11-15",
+  "updated_at": "2026-11-15",
+  "profile_url": "https://coalitionmembers.atlasai.institute/members/akbar-husnoo/"
+}

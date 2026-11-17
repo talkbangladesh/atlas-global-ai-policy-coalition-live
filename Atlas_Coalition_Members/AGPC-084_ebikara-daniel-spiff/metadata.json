@@ -1,0 +1,22 @@
+{
+  "member_id": "AGPC-084",
+  "full_name": "Ebikara Daniel Spiff",
+  "slug": "ebikara-daniel-spiff",
+  "membership_type": "Founding Member",
+  "profile_url": "https://coalitionmembers.atlasai.institute/members/ebikara-daniel-spiff/",
+  "data_completeness_status": "partial",
+  "missing_fields": [
+    "designation",
+    "institution",
+    "qualification",
+    "country",
+    "photo",
+    "photo_alt"
+  ],
+  "source_record_reference": {
+    "source_file": "Atlas_Global_South_AI_Coalition_Profile_Structure(1).xlsx",
+    "array_name": "members",
+    "zero_based_index": 83,
+    "display_order": 84
+  }
+}

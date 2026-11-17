@@ -1,0 +1,15 @@
+{
+  "meta": {
+    "description": "Institutions are derived from public member profile fields. Text wordmarks are used until logo permission is confirmed.",
+    "logo_permission_required": true
+  },
+  "affiliations": [
+    { "name": "Amolingua", "source": "member-profile" },
+    { "name": "Association for Information Science and Technology (ASIS&T)", "source": "member-profile" },
+    { "name": "Médecins Sans Frontières (MSF)", "source": "member-profile" },
+    { "name": "United Nations University Institute on Comparative Regional Integration Studies (UNU-CRIS)", "source": "member-profile" },
+    { "name": "Admiralty University of Nigeria", "source": "member-profile" },
+    { "name": "Pan Africa Centre for AI Ethics", "source": "member-profile" },
+    { "name": "International Society of City and Regional Planners (ISOCARP)", "source": "member-profile" }
+  ]
+}

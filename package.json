@@ -1,0 +1,13 @@
+{
+  "name": "atlas-global-ai-policy-coalition",
+  "version": "1.0.0",
+  "private": false,
+  "description": "Static institutional website for the Atlas Global AI Policy Coalition.",
+  "engines": {
+    "node": ">=22 <23"
+  },
+  "scripts": {
+    "build": "node scripts/build-static.mjs",
+    "check": "node --check src/app.js && python3 scripts/validate-members.py && python3 scripts/validate-founding-committee.py"
+  }
+}

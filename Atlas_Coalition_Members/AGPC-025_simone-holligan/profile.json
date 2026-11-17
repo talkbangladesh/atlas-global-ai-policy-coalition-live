@@ -1,0 +1,25 @@
+{
+  "member_id": "AGPC-025",
+  "slug": "simone-holligan",
+  "full_name": "Simone Holligan",
+  "designation": null,
+  "membership_type": "Founding Member",
+  "institution": null,
+  "qualification": null,
+  "country": null,
+  "biography": "I am an interdisciplinary scholar with work rooted in understanding human behaviour and decision-making that influence health outcomes. My interests lie at the intersection of behavioural science, public health, and emerging technologies with a priority on how algorithmic decision-making interacts with human decision-making in healthcare systems to impact patient care.",
+  "professional_expertise": [
+    "Academic"
+  ],
+  "photo": null,
+  "photo_alt": null,
+  "social_links": {
+    "linkedin": "https://www.linkedin.com/in/simoneholligan/"
+  },
+  "membership_status": "source-audited",
+  "verification_status": "source-audited",
+  "display_order": 25,
+  "created_at": "2026-11-15",
+  "updated_at": "2026-11-15",
+  "profile_url": "https://coalitionmembers.atlasai.institute/members/simone-holligan/"
+}

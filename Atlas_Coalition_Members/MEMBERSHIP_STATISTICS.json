@@ -1,0 +1,18 @@
+{
+  "total_members": 163,
+  "founding_members": 142,
+  "members": 21,
+  "linkedin_profiles": 135,
+  "countries_verified": 0,
+  "profiles_with_country_value": 0,
+  "missing_field_counts": {
+    "designation": 163,
+    "institution": 163,
+    "qualification": 163,
+    "country": 163,
+    "photo": 163,
+    "photo_alt": 163,
+    "biography": 7
+  },
+  "contact_emails_included": false
+}

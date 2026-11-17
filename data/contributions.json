@@ -1,0 +1,7 @@
+{
+  "meta": {
+    "public_policy": "Only approved and published contributions may appear in this dataset.",
+    "submission_statuses": ["Submitted", "Under Review", "Revision Requested", "Approved", "Rejected", "Published"]
+  },
+  "contributions": []
+}

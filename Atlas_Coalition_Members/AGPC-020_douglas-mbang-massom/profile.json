@@ -1,0 +1,23 @@
+{
+  "member_id": "AGPC-020",
+  "slug": "douglas-mbang-massom",
+  "full_name": "Douglas MBANG MASSOM",
+  "designation": null,
+  "membership_type": "Founding Member",
+  "institution": null,
+  "qualification": null,
+  "country": null,
+  "biography": "I am an epidemiologist and field researcher with 13+ years of experience in rigorous research, evidence generation, data analysis, and international programs, now transitionning his career to AI governance. I coordinated the deployment of a machine learning diagnostic tool for cervical cancer screening in Malawi, an experience that exposed significant gaps in AI oversight and regulation across under-resourced health systems in Africa.\n\nI am the author of IA & Cadres Dirigeants (IACD), an AI governance newsletter for executives, CEOs, and decision-makers in the public and private sectors, which has grown to nearly 6,000 subscribers on LinkedIn. I am currently completing a pedagogical book on AI risks for the general public, aimed at improving AI literacy in francophone Africa. My work focuses on closing the AI governance and literacy gap in francophone and under-resourced regions of the Global South, combining a research background in data ethics and regulatory compliance with a commitment to making AI risk understandable and actionable for non-technical audiences.",
+  "professional_expertise": [
+    "Researcher"
+  ],
+  "photo": "/assets/member-photos/AGPC-020.png",
+  "photo_alt": "Douglas Mbang Massom — Founding Committee",
+  "social_links": {},
+  "membership_status": "source-audited",
+  "verification_status": "source-audited",
+  "display_order": 20,
+  "created_at": "2026-11-15",
+  "updated_at": "2026-11-15",
+  "profile_url": "https://coalitionmembers.atlasai.institute/members/douglas-mbang-massom/"
+}

@@ -1,0 +1,25 @@
+{
+  "member_id": "AGPC-019",
+  "slug": "soumana-dama",
+  "full_name": "Soumana Dama",
+  "designation": null,
+  "membership_type": "Founding Member",
+  "institution": null,
+  "qualification": null,
+  "country": null,
+  "biography": "Soumana Dama is a software engineer and AI practitioner from Burkina Faso, currently pursuing a Master’s degree in Emerging Networks, IoT and Embedded Intelligence at Université Joseph Ki-Zerbo. His work spans artificial intelligence, machine learning, NLP, multilingual AI for low-resource African languages, computer vision, and agentic AI systems.\n\nHe is the Founder & Lead AI Engineer of Scoinvestigator AI, a multi-agent scientific research assistant designed to help researchers explore scientific literature, synthesize evidence, and reason across complex information. He has also developed AI technologies for Mooré and Dioula and applied AI solutions in areas including agriculture and sustainable development.\n\nThrough building and deploying AI systems, he has developed a strong interest in AI governance, responsible AI, AI reliability, and the challenges of developing and deploying AI in low-resource contexts. He is particularly interested in ensuring that AI governance reflects the realities, priorities, and technological needs of the Global South.",
+  "professional_expertise": [
+    "Student"
+  ],
+  "photo": null,
+  "photo_alt": null,
+  "social_links": {
+    "linkedin": "https://www.linkedin.com/in/soumana-dama-445096253/"
+  },
+  "membership_status": "source-audited",
+  "verification_status": "source-audited",
+  "display_order": 19,
+  "created_at": "2026-11-15",
+  "updated_at": "2026-11-15",
+  "profile_url": "https://coalitionmembers.atlasai.institute/members/soumana-dama/"
+}

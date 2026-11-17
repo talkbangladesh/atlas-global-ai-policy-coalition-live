@@ -1,0 +1,18 @@
+# Franklin Tchakounte
+
+- **Member ID:** AGPC-021
+- **Membership:** Founding Member
+- **Expertise:** Academic
+- **LinkedIn:** https://www.linkedin.com/in/pr-franklin-tchakounté-724a64215
+
+## Source summary
+
+I am a passionate advocate of sustainable science, transformative and resilient mindsets for a thriving and impactful Africa. I hold a PhD in Computer Science from the University of Bremen, Germany, and currently serves as an Associate Professor at the University of Ngaoundere in Cameroon. With over 20 years of expertise in digital transformation, cybersecurity and data intelligence, I am the founder and Chair of the Cybersecurity with Computational and Artificial Intelligence Group. Recently, I was appointed Technical Advisor and Consultant Professor at the School of Engineering Science and Technology of Kesmonds International University (KIU). With more than 30 publications including papers, conferences and books, and several certifications in Digital Transformation, AI Strategy & Governance, and Cybersecurity Management, I am a globally recognized scientist with significant contributions to the fields of cybersecurity and AI. 
+I am an active member of several national and international professional societies, and recipient of numerous awards, recognitions, fellowships, and research grants for my work. I co-invented platforms such as eyeandears.com, an AI-powered platform for combating misinformation, and the Cybersecurity Academy app, which educates users of all ages in digital safety.
+Dedicated to youth empowerment and resilience, I recently launched the ResilientMinds initiative, which fosters leadership and personal growth among youth in underprivileged communities. He is also a pioneer of responsible AI in Cameroon. I Founded the International Conference on Safe, Secure, Ethical, and Responsible Technologies and Emerging Applications, and represents Cameroon in the Responsible AI Network–Africa. As a digital transformation expert for the Regional Conference of Rectors of Central African and Great Lakes Universities, he advises on the responsible integration of generative AI in education.
+I co-edited the book Global Perspectives on the Applications of Computer Vision in Cybersecurity and contributed to the ICESCO Charter on AI Ethics. He is the Principal Investigator of a three-years U.S.-funded project by DEVCOM ARL and ONR Global, focused on training young African researchers in AI and cybersecurity using Game Theory and Machine Learning.
+As the AI ChangeMaker Awardee in 2025 in Cameroon, I continue to champion youth innovation, serving as a keynote speaker with my unceasing to unwavering my commitment is to support Africans life, elevate African research and empower the next generation of change-makers.
+
+## Missing information
+
+designation, institution, qualification, country, photo, photo_alt. Values are intentionally not invented.

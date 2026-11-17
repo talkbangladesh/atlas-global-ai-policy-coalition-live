@@ -1,0 +1,6 @@
+{
+  "primaryCanonicalOrigin": "https://coalition.atlasai.institute",
+  "plannedOrigins": [],
+  "redirectsEnabled": true,
+  "deployNote": "Before launch, confirm DNS, SSL and hosting for coalition.atlasai.institute and the configured 301 redirects."
+}

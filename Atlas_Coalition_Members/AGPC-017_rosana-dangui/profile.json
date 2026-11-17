@@ -1,0 +1,25 @@
+{
+  "member_id": "AGPC-017",
+  "slug": "rosana-dangui",
+  "full_name": "Rosana Dangui",
+  "designation": null,
+  "membership_type": "Founding Member",
+  "institution": null,
+  "qualification": null,
+  "country": null,
+  "biography": "I am an AI governance and information security professional and a PhD candidate in Business Administration at UNIVALI, Brazil. My work bridges research and practice, focusing on responsible AI governance, trustworthy AI, human agency, and the societal impacts of generative AI. I was a Visiting PhD Scholar at Bentley University, where I conducted research at the intersection of AI, strategy, governance, and society. I currently work on translating AI governance principles and international frameworks into organizational practices in Brazil.",
+  "professional_expertise": [
+    "Academic"
+  ],
+  "photo": null,
+  "photo_alt": null,
+  "social_links": {
+    "linkedin": "https://www.linkedin.com/in/rosanadangui"
+  },
+  "membership_status": "source-audited",
+  "verification_status": "source-audited",
+  "display_order": 17,
+  "created_at": "2026-11-15",
+  "updated_at": "2026-11-15",
+  "profile_url": "https://coalitionmembers.atlasai.institute/members/rosana-dangui/"
+}

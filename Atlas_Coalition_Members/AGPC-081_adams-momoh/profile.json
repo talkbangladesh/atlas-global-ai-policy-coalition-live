@@ -1,0 +1,25 @@
+{
+  "member_id": "AGPC-081",
+  "slug": "adams-momoh",
+  "full_name": "Adams Momoh",
+  "designation": null,
+  "membership_type": "Founding Member",
+  "institution": null,
+  "qualification": null,
+  "country": null,
+  "biography": "I have dual expertise in media and communication and artificial intelligence. I am a PhD holder in Mass Communication with professional experience as a broadcast journalist, and I am currently pursuing a Master’s degree in Artificial Intelligence. My interdisciplinary expertise enables me to explore the intersection of AI, media, communication, and society, combining practical media experience with advanced academic research and emerging technologies.",
+  "professional_expertise": [
+    "Researcher"
+  ],
+  "photo": null,
+  "photo_alt": null,
+  "social_links": {
+    "linkedin": "https://www.linkedin.com/newsletters/ai-media-society-7462605276232441856"
+  },
+  "membership_status": "source-audited",
+  "verification_status": "source-audited",
+  "display_order": 81,
+  "created_at": "2026-11-15",
+  "updated_at": "2026-11-15",
+  "profile_url": "https://coalitionmembers.atlasai.institute/members/adams-momoh/"
+}

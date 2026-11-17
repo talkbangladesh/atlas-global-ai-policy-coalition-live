@@ -1,0 +1,25 @@
+{
+  "member_id": "AGPC-135",
+  "slug": "michael-borum",
+  "full_name": "Michael Borum",
+  "designation": null,
+  "membership_type": "Founding Member",
+  "institution": null,
+  "qualification": null,
+  "country": null,
+  "biography": "I have worked in digital technologies for over 30 years, and have been with Oxfam for nearly 20, focusing on how technology is used in civil society and how it is used in the global majority. My work has also focused on the inequities inherent in how digital technologies are designed, developed, and deployed, and the neocolonial character of much of the way Big Tech and their host governments operate.",
+  "professional_expertise": [
+    "Civil Society"
+  ],
+  "photo": null,
+  "photo_alt": null,
+  "social_links": {
+    "linkedin": "https://linkedin.com/in/mborum"
+  },
+  "membership_status": "source-audited",
+  "verification_status": "source-audited",
+  "display_order": 135,
+  "created_at": "2026-11-15",
+  "updated_at": "2026-11-15",
+  "profile_url": "https://coalitionmembers.atlasai.institute/members/michael-borum/"
+}

@@ -1,0 +1,25 @@
+{
+  "member_id": "AGPC-092",
+  "slug": "pretty-tega-edema-phd",
+  "full_name": "Pretty Tega Edema, PhD",
+  "designation": null,
+  "membership_type": "Founding Member",
+  "institution": null,
+  "qualification": null,
+  "country": null,
+  "biography": "I work around the intersection of Education, AI governance, AI ethics/responsible AI deployment particularly within the Global South. I am currently the Research Lead at Pan African Centre for AI Ethics (PACFAIE) and an AI Ethics and Governance Fellow of the Policy and Innovation Centre (PiC). As my capstone project, I just developed an Audit Checklist  for AI Proctoring and Grading Assessment Tools to be used within Sub sahara Africa. I also have a soon-to-be-published monograph titled, Artificial Intelligence in African Context: An Overview of Key Issues which critically examines salient and pivotal factors to be considered in relation to AI investment, deployment and policymaking in Africa. I am also the author of four books on data privacy and protection.",
+  "professional_expertise": [
+    "Academic"
+  ],
+  "photo": "/assets/member-photos/AGPC-092.png",
+  "photo_alt": "Pretty Tega Edema — Founding Committee",
+  "social_links": {
+    "linkedin": "https://www.linkedin.com/in/tegaedema?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
+  },
+  "membership_status": "source-audited",
+  "verification_status": "source-audited",
+  "display_order": 92,
+  "created_at": "2026-11-15",
+  "updated_at": "2026-11-15",
+  "profile_url": "https://coalitionmembers.atlasai.institute/members/pretty-tega-edema-phd/"
+}

@@ -1,0 +1,25 @@
+{
+  "member_id": "AGPC-010",
+  "slug": "tahsina-farah-sanam-phd",
+  "full_name": "Tahsina Farah Sanam, PhD",
+  "designation": null,
+  "membership_type": "Founding Member",
+  "institution": null,
+  "qualification": null,
+  "country": null,
+  "biography": "I did my PhD from the Department of Electrical and Computer Engineering, Rutgers University, New Jersey. My research works lie at the intersection of Signal Processing, Machine Learning and Wireless Communication. At present I'm focusing on developing machine learning algorithm for Device Free Indoor Localization using WiFi Signals. I have prior research experience in Speech Enhancement using Wavelet Packet Transform. Currently I am focusing my research on developing IoT based healthcare system in Bangladesh\n\nI am looking for motivated and hard working students for Masters and PhD in BUET in the above mentioned area of machine learning, AI and IoT.",
+  "professional_expertise": [
+    "Academic"
+  ],
+  "photo": null,
+  "photo_alt": null,
+  "social_links": {
+    "linkedin": "https://www.linkedin.com/in/tfsanam"
+  },
+  "membership_status": "source-audited",
+  "verification_status": "source-audited",
+  "display_order": 10,
+  "created_at": "2026-11-15",
+  "updated_at": "2026-11-15",
+  "profile_url": "https://coalitionmembers.atlasai.institute/members/tahsina-farah-sanam-phd/"
+}

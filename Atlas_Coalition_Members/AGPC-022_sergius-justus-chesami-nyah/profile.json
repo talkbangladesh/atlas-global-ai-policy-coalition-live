@@ -1,0 +1,25 @@
+{
+  "member_id": "AGPC-022",
+  "slug": "sergius-justus-chesami-nyah",
+  "full_name": "Sergius Justus Chesami Nyah",
+  "designation": null,
+  "membership_type": "Founding Member",
+  "institution": null,
+  "qualification": null,
+  "country": null,
+  "biography": "I am a computer scientist and AI researcher from Cameroon. My work sits at the intersection of artificial intelligence, language, and the realities of communities that are often poorly represented in technology.\n\nI became interested in these questions through research rather than policy. Working on multilingual NLP and AI safety, I have seen how an AI system can behave differently depending on the language, cultural context, and people represented in a prompt. That experience pushed me beyond the question of whether an AI system works, toward a harder question: **works for whom, and according to whose assumptions?**\n\nMy research has included building multilingual datasets and studying how large language models respond to culturally grounded information. I am particularly interested in what these findings mean for AI governance in Africa, where policy is often developing alongside technologies that were not designed with African languages, institutions, or social realities in mind.\n\nI want my work to help ensure that Africa is not simply a market, testing ground, or case study for AI, but a place where ideas about how AI should be built and governed are also being developed.",
+  "professional_expertise": [
+    "Researcher"
+  ],
+  "photo": null,
+  "photo_alt": null,
+  "social_links": {
+    "linkedin": "https://www.linkedin.com/in/sergius-nyah/"
+  },
+  "membership_status": "source-audited",
+  "verification_status": "source-audited",
+  "display_order": 22,
+  "created_at": "2026-11-15",
+  "updated_at": "2026-11-15",
+  "profile_url": "https://coalitionmembers.atlasai.institute/members/sergius-justus-chesami-nyah/"
+}

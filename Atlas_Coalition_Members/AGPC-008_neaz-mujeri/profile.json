@@ -1,0 +1,25 @@
+{
+  "member_id": "AGPC-008",
+  "slug": "neaz-mujeri",
+  "full_name": "Neaz Mujeri",
+  "designation": null,
+  "membership_type": "Founding Member",
+  "institution": null,
+  "qualification": null,
+  "country": null,
+  "biography": "Neaz Mujeri is a researcher and AI governance and literacy professional working at the intersection of artificial intelligence, sustainability, systems thinking, and inclusive development. He is Executive Director & CEO of the Center for Research Initiatives (CRI), where he leads research and knowledge initiatives on AI literacy, responsible AI adoption, and sustainable development. His research interests include AI governance, Generative AI, AI literacy and capability-building, sustainability, and the role of AI in advancing the Sustainable Development Goals (SDGs), particularly in the Global South.\n\nNeaz has academic and research experience across Bangladesh, Canada, the United Arab Emirates, and Australia, including research on Generative AI and sustainability. He has authored and co-authored books and peer-reviewed research and actively contributes to professional and academic discussions on responsible AI and emerging AI governance frameworks. His work is guided by a strong commitment to ensuring that perspectives and priorities from the Global South are meaningfully represented in the development of global AI policy and governance.",
+  "professional_expertise": [
+    "Researcher"
+  ],
+  "photo": null,
+  "photo_alt": null,
+  "social_links": {
+    "linkedin": "https://www.linkedin.com/in/neazmujeri/"
+  },
+  "membership_status": "source-audited",
+  "verification_status": "source-audited",
+  "display_order": 8,
+  "created_at": "2026-11-15",
+  "updated_at": "2026-11-15",
+  "profile_url": "https://coalitionmembers.atlasai.institute/members/neaz-mujeri/"
+}

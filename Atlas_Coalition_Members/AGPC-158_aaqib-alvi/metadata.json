@@ -1,0 +1,23 @@
+{
+  "member_id": "AGPC-158",
+  "full_name": "Aaqib Alvi",
+  "slug": "aaqib-alvi",
+  "membership_type": "Member",
+  "profile_url": "https://coalitionmembers.atlasai.institute/members/aaqib-alvi/",
+  "data_completeness_status": "partial",
+  "missing_fields": [
+    "designation",
+    "institution",
+    "qualification",
+    "country",
+    "biography",
+    "photo",
+    "photo_alt"
+  ],
+  "source_record_reference": {
+    "source_file": "Atlas_Global_South_AI_Coalition_Profile_Structure(1).xlsx",
+    "array_name": "members",
+    "zero_based_index": 157,
+    "display_order": 158
+  }
+}

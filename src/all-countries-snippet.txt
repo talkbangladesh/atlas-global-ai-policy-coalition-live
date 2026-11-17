@@ -1,0 +1,1 @@
+The public country directory renders only verified country assignments from data/countries.json.

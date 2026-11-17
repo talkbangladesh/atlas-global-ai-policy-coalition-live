@@ -1,0 +1,25 @@
+{
+  "member_id": "AGPC-080",
+  "slug": "karaitiana-taiuru",
+  "full_name": "Karaitiana Taiuru",
+  "designation": null,
+  "membership_type": "Founding Member",
+  "institution": null,
+  "qualification": null,
+  "country": null,
+  "biography": "Dr Karaitiana Taiuru is a Māori AI, data, and emerging-technology ethicist who helps organisations understand how modern digital systems affect identity, rights, and equity outcomes. He delivers practical guidance for boards, agencies, and industry leaders on AI governance, Māori Data Sovereignty, IP, and preventing bias and discrimination across the AI lifecycle.",
+  "professional_expertise": [
+    "Civil Society"
+  ],
+  "photo": null,
+  "photo_alt": null,
+  "social_links": {
+    "linkedin": "https://www.linkedin.com/in/ktaiuru/"
+  },
+  "membership_status": "source-audited",
+  "verification_status": "source-audited",
+  "display_order": 80,
+  "created_at": "2026-11-15",
+  "updated_at": "2026-11-15",
+  "profile_url": "https://coalitionmembers.atlasai.institute/members/karaitiana-taiuru/"
+}

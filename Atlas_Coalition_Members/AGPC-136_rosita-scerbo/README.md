@@ -1,0 +1,17 @@
+# Rosita Scerbo
+
+- **Member ID:** AGPC-136
+- **Membership:** Founding Member
+- **Expertise:** Not specified
+- **LinkedIn:** https://www.linkedin.com/in/rosita-scerbo-ph-d-867798125/
+
+## Source summary
+
+Rosita Scerbo is a computational humanist and Associate Professor of Visual and Digital Cultures at Georgia State University, teaching across several departments and interdisciplinary programs, including the Institute for Women’s, Gender, and Sexuality Studies, Africana Studies, and the Creative Media Industries Institute. Dr. Scerbo’s scholarship examines the ethics of emerging technologies, AI as an adaptive and assistive technology in support of first-generation, neurodivergent, and multilingual students, critical visual literacy, digital accessibility, and algorithmic justice, with particular attention to how computational systems both reproduce and challenge social inequalities.
+She is the author of multiple books and numerous peer-reviewed publications on digital culture, artificial intelligence, media studies, and Afro-diasporic visual culture. Her most recent book, Generative AI for Neuroinclusive Higher Education: Accessibility, Equity, and Personalized Learning, is under contract with Cambridge University Press and examines how generative AI and assistive technologies can advance neuroinclusive pedagogy and equitable learning environments while promoting the responsible, ethical, and inclusive integration of AI in higher education. She is also Co-PI on a project funded through the Media Industries and Artificial Intelligence (MI-AI) Research Initiative at the Carsey-Wolf Center, University of California, Santa Barbara. Her project, “Synthetic Voices, Precarious Labor: AI and Voice Acting in the Video Game Industry”, examines the impact of generative AI on voice acting, creative labor, and working conditions in the video game industry.
+Her research integrates computational humanities methods, interdisciplinary inquiry, and community-engaged scholarship to address complex societal challenges. Dr. Scerbo is the founding co-director of Georgia State University’s Undergraduate Certificate in Digital Humanities and a Senior Faculty Associate with the Center for Excellence in Teaching, Learning, and Online Education (CETLOE), where she develops innovative approaches, faculty trainings, and workshops focused on the ethical and responsible adoption of artificial intelligence in research and teaching, digital pedagogy, accessibility, and interdisciplinary learning.
+She teaches courses such as WGSS 3115: Gender and Race in AI and Gaming annually, integrating feminist and decolonial frameworks to interrogate algorithmic bias, digital rights, and the ethics of emerging technologies. Dr. Scerbo is also a Governor’s Teaching Fellow (2025 cohort, “AI in the Holistic Classroom”) and a frequent invited speaker on topics including the ethics of AI, speculative digital storytelling, and digital humanities.
+
+## Missing information
+
+designation, institution, qualification, country, photo, photo_alt. Values are intentionally not invented.

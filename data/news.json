@@ -1,0 +1,13 @@
+{
+  "meta": {
+    "description": "Only public news items with a complete date and approved summary belong here."
+  },
+  "news": [
+    {
+      "date": "2026-11-15",
+      "title": "Atlas Global AI Policy Coalition member registry published",
+      "summary": "The public registry now brings together source-audited member profiles for the Coalition.",
+      "href": "/members/"
+    }
+  ]
+}

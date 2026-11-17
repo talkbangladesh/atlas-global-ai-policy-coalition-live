@@ -1,0 +1,8 @@
+{
+  "meta": {
+    "verified_country_assignments": 0,
+    "profiles_pending_country_verification": 163,
+    "note": "The authoritative uploaded JSON reports countries_verified=0 and country is null for all source records. No country is inferred from names or biographies in the public registry."
+  },
+  "countries": []
+}
